@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дринк Ватер Апп</string>
+    <string name="channel_description">Обавештења да пијете воду</string>
+
+    <string name="monday">Понедељак</string>
+    <string name="tuesday">Уторак</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четвртак</string>
+    <string name="friday">Петак</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Недеља</string>
+    <string name="january">Јануар</string>
+    <string name="fabruary">Фебруар</string>
+    <string name="march">Марцх</string>
+    <string name="april">Април</string>
+    <string name="may">Маи</string>
+    <string name="june">Јуне</string>
+    <string name="july">Јул</string>
+    <string name="august">Аугуст</string>
+    <string name="september">Септембер</string>
+    <string name="october">Оцтобер</string>
+    <string name="november">Новембар</string>
+    <string name="december">Децембар</string>
+    <string name="text_hour">сат</string>
+    <string name="text_minute">минуте</string>
+    <string name="text_second">други</string>
+    <string name="text_hours">Хоурс</string>
+    <string name="text_minutes">минута</string>
+    <string name="text_seconds">секунди</string>
+    <string name="validate_email_empty">Унесите адресу е-поште!</string>
+    <string name="validate_email_invalid">Неважећа адреса</string>
+    <string name="validate_password_empty">Унесите лозинку!</string>
+    <string name="validate_password_too_short">Врло кратка лозинка!</string>
+    <string name="validate_phone_empty">Празан број</string>
+    <string name="validate_phone_incomplete">Непотпуни број</string>
+    <string name="validate_phone_too_long">Број превелик</string>
+    <string name="validate_phone_only_numbers">Улаз не сме садржати само слова</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">Политика приватности</string>
+    <string name="privacy_policy_alert">Морате прихватити правила за употребу апликације</string>
+    <string name="privacy_policy_accept">Прочитао сам и слажем се са правилима о приватности</string>
+    <string name="text_continue">Настави</string>
+
+    <string name="text_ouch">Оуцх!</string>
+    <string name="text_ss_validating_config">Провера поставки ...</string>
+    <string name="text_ss_getting_language">Добијање језика ...</string>
+    <string name="text_ss_showing_pp">Приказивање наших правила о приватности</string>
+    <string name="ss_getting_content">Преузимање садржаја ...</string>
+    <string name="ss_not_connected">Нисте повезани на интернет ... Проверите везу</string>
+    <string name="ss_getting_info">Добијање информација из апликације ...</string>
+    <string name="ss_checking_news">Проверавање вести ...</string>
+    <string name="ss_verifying_user">Провера корисника ...</string>
+    <string name="ss_loading_content">Учитавање садржаја ...</string>
+    <string name="permission_request_01">Апликација захтева одобрење неких дозвола за правилан рад.</string>
+    <string name="permission_request_02">Апликација захтева ауторизацију неких дозвола за исправну операцију. \n За више информација о сваком од њих проверите нашу политику приватности.</string>
+    <string name="ss_confirm_permissions_1">Потврда почетних дозвола апликације ...</string>
+    <string name="ss_confirm_permissions_2">Потврђивање дозвола за апликације ...</string>
+    <string name="ss_confirm_permissions_3">Дозволе су потребне за покретање апликације</string>
+    <string name="ss_starting">Почиње ...</string>
+
+    <string name="permission_system_alert_window">Потребна вам је дозвола за приказ видгета на екрану када постигнете свој дневни циљ воде.</string>
+    <string name="permission_read_external">Дозвола за читање је потребна за добијање информација које је апликација креирала у односу на тренутног корисника.</string>
+    <string name="permission_write_external">Дозвола за писање је потребна за локално похрањивање важних информација и поједностављење учитавања услуга.</string>
+
+    <string name="permission_grant">Аллов</string>
+
+    <string name="permission_system_alert_windows">Потребна нам је дозвола да прикажемо видгет на екрану вашег телефона када достигнете свој циљ</string>
+    <string name="permission_system_alert_windows_explanation">Обавезно, на пример: Прикажи видгет за честитке</string>
+    <string name="permission_read_external_title">Требамо дозволе за читање!</string>
+    <string name="permission_read_external_explanation">Неопходно, на пример: да се добију евиденције о воденим пићима, времена, итд.</string>
+    <string name="permission_write_external_title">Потребне су нам дозволе за писање!</string>
+    <string name="permission_write_external_explanation">Неопходно, на пример: да сачувате вашу сесију на телефону.</string>
+
+
+    <string name="button_login">Логин</string>
+    <string name="text_sign_up">Регистер</string>
+    <string name="text_return">Повратак</string>
+    <string name="text_password">Пассворд</string>
+    <string name="text_email">Емаил</string>
+    <string name="text_forgot_password">Заборавили сте лозинку?</string>
+    <string name="text_join">Јоин</string>
+    <string name="text_send_password_instructions">Пошаљи упутства</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>Поундс</item>
+        <item>Килограми</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>Милилитри</item>
+        <item>Литрес</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5мин</item>
+        <item>10мин</item>
+        <item>15мин</item>
+        <item>20мин</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10мЛ</item>
+        <item>50мЛ</item>
+        <item>100мЛ</item>
+        <item>150мЛ</item>
+    </string-array>
+
+
+    <string name="exit_press_again">Притисните поново за излаз</string>
+    <string name="message_app_disabled">Тренутно је апликација онемогућена, покушајте поново за неколико тренутака ...</string>
+    <string name="message_update_new_version">Доступна је нова верзија. Преузмите га сада!</string>
+    <string name="text_download">ДОВНЛОАД</string>
+    <string name="text_exit">Излаз</string>
+    <string name="text_later">Касније</string>
+    <string name="text_accept">Прихвати</string>
+    <string name="text_permissions">Дозволе</string>
+    <string name="text_session_in_other_device">Активна сесија на другом уређају!</string>
+
+    <string name="app_global_name">ДРИНК ВАТЕР</string>
+    <string name="welcome_guide_01">То ће вас водити да се прилагодите вашим жељама</string>
+    <string name="text_welcome">Добро дошли</string>
+    <string name="welcome_guide_02">Која је твоја тежина сада?</string>
+    <string name="welcome_guide_03">Подесите МЕТА ручно</string>
+    <string name="welcome_guide_04">Ми ћемо израчунати почетни циљ за вас</string>
+    <string name="welcome_guide_05">1000 милилитара</string>
+    <string name="welcome_guide_06">Користите израчунати износ</string>
+    <string name="welcome_guide_07">Подесите МЕТА ручно</string>
+    <string name="welcome_guide_08">Да ли желите да то утврдите као свој дневни циљ?</string>
+    <string name="welcome_guide_09">Не брините, можете да промените ове вредности касније у апликацији</string>
+    <string name="welcome_guide_10">Ваша израчуната потрошња по дану је</string>
+    <string name="welcome_guide_11">Колико желите постићи дневно?</string>
+    <string name="welcome_guide_12">Колико често желите да вас се памти?</string>
+    <string name="welcome_guide_13">Када пијете воду чекат ћемо неко вријеме прије него што вас поново обавијестимо.</string>
+    <string name="welcome_guide_14">У које јутро желите да почнете да пијете воду?</string>
+    <string name="welcome_guide_15">Између 13:00 и 12:00.</string>
+    <string name="welcome_guide_16">У које доба ноћи желите да престанете да примате обавештења? (отприлике)</string>
+    <string name="welcome_guide_17">Између 18:00 и 23:59.</string>
+    <string name="welcome_guide_18">Када добијете обавештење можете се одлучити између СКИППИНГА и ДРИНКИНГ предефинисане количине воде без уласка у апликацију.</string>
+    <string name="text_drink">ДРИНК</string>
+    <string name="text_skip">ЈУМП</string>
+    <string name="welcome_guide_19">Време је да пијемо воду! Данас носите 970мл. Ваш циљ је 1 литар.</string>
+    <string name="welcome_guide_20">Послаћемо вам обавештења да бисте запамтили да пијете воду</string>
+    <string name="text_notifications">Обавештења</string>
+    <string name="welcome_guide_21">Колико дуго желите да изоставите обавештење?</string>
+    <string name="welcome_guide_22">Не брините, можете да промените ове вредности касније у апликацији</string>
+    <string name="welcome_guide_23">Колико желите да се региструјете када притиснете дугме ДРИНК у обавештењу?</string>
+    <string name="welcome_guide_24">Не брините, можете да промените ове вредности касније у апликацији</string>
+    <string name="text_start">Старт</string>
+    <string name="welcome_guide_25">Обавештени сте сваких 45 минута да бисте постигли свој дневни циљ од 1,5 литара воде (1500 милилитара)</string>
+    <string name="welcome_guide_26">Спремни смо!</string>
+    <string name="text_enter_a_valid_amout">Унесите важећи износ</string>
+    <string name="text_enter_an_amount_greater_lbs">Унесите износ већи од 10 фунти</string>
+    <string name="text_enter_an_amount_greater_kg">Унесите износ већи од 5 килограма</string>
+    <string name="text_liters">литара</string>
+    <string name="text_mililiters">милилитара</string>
+    <string name="text_something_isnt_correct">Вратите се и поново израчунајте, нешто није у реду</string>
+    <string name="text_interval_too_short">Интервал је прекратак</string>
+    <string name="text_interval_too_big">Интервал је превелик</string>
+    <string name="text_out_of_range_hour">Изабрано време није у домету</string>
+    <string name="text_welcome_stats_01">Бићете обавештени сваки пут</string>
+    <string name="text_welcome_stats_02">тако да постигнете свој дневни циљ</string>
+    <string name="text_welcome_stats_03">воде</string>
+
+    <string name="water_drink_01">Напредовали сте за 27 секунди до времена за воду</string>
+    <string name="water_drink_02">Вода помаже да се кожа хидрира</string>
+    <string name="water_drink_03">Следеће за 55 минута и 30 секунди</string>
+    <string name="text_enable_alarm">Активирај аларм</string>
+    <string name="text_disable_alarm">Деактивирај аларм</string>
+    <string name="text_drink_water">Дринк Ватер</string>
+    <string name="water_drink_04">Носите 150 мЛ 1000Л</string>
+    <string name="dialog_text_reactivate_alarm">Већ смо прошли крај вашег времена. Желите ли наставити примати аларме?</string>
+    <string name="dialog_exit">Не, изађи</string>
+    <string name="dialog_extend_hours">Да, продужи време</string>
+    <string name="text_drinking_over">Период завршеног пића! \n</string>
+    <string name="text_share_content">Здраво! Пробајте ову апликацију да вас подсети да пијете воду, препоручујем вам је:</string>
+    <string name="text_share_subject">Пијмо воду!</string>
+    <string name="text_share_title">Поделите апликацију са пријатељима!</string>
+    <string name="text_your_goal_01">Ваш циљ је данас</string>
+    <string name="text_your_goal_02">воде</string>
+    <string name="text_remember_each">Запамтите сваку:</string>
+    <string name="text_timepicker_title">Колико често желите да примате обавештења?</string>
+    <string name="text_your_record_so_far">Ово је досадашњи запис</string>
+    <string name="text_goal_reached_01">ЧЕСТИТКА! \n Већ сте постигли свој циљ данас!</string>
+    <string name="text_goal_reached_02">Велл Доне! Данас сте достигли свој циљ!</string>
+    <string name="text_hurra">Браво!</string>
+    <string name="text_progress_01">Напредак: \n Ви узимате</string>
+    <string name="text_progress_02">Ваш циљ је</string>
+    <string name="text_stats_01">Дошли сте напред</string>
+    <string name="text_stats_02">у своје време да пијете воду</string>
+    <string name="text_drink_water_now">Пиј сада воду</string>
+    <string name="dialog_huawei_title">ХУАВЕИ</string>
+    <string name="dialog_huawei_message">Потребно је додати апликацију на листу заштићених апликација да бисте примали обавештења</string>
+    <string name="text_proceed">Наставите</string>
+    <string name="text_its_done">Готово је</string>
+    <string name="text_of">оф</string>
+    <string name="text_report_title">Рецордс оф \n</string>
+    <string name="text_report_loading">Учитавање записа ...</string>
+    <string name="text_report_no_records">Још немате записе!</string>
+    <string name="text_record_yesterday">Види јучерашњи запис</string>
+    <string name="text_record_today">Погледајте данашње записе</string>
+    <string name="text_custom_milliliters">Адд Миллилитерс</string>
+    <string name="text_amount_empty">Износ је празан</string>
+    <string name="text_amount_greater_than">Количина мора бити већа од 10</string>
+    <string name="text_todays_records">Данашњи записи</string>
+    <string name="text_your_record_yesterday">Ово су записи од јуче</string>
+
+    <string name="text_first_drink_01">Спремни да пијете воду у сваком тренутку!</string>
+    <string name="text_first_drink_02">Почнимо ... \n \n Сада узмите чашу воде, притисните дугме и затим изаберите количину коју сте прогутали. \n Након наставка активности, јавићемо вам када треба поново пити</string>
+    <string name="text_break_hours_01">\n Обавештења су онемогућена</string>
+    <string name="text_break_hours_02">Аларм је искључен ... \n \n Сада узмите чашу воде, притисните дугме и затим изаберите количину коју сте прогутали. \n Ако и даље желите да примате аларме, можете продужити време завршетка у подешавањима</string>
+    <string name="text_vol_unit_mililiters">мЛ</string>
+    <string name="text_vol_unit_liters">Л</string>
+    <string name="text_you_have">Ти носиш</string>
+    <string name="text_well_done">Велл Доне!</string>
+    <string name="text_timepicker_title_start_hours">Изаберите време почетка \n (између 01:00 и 12:00 часова)</string>
+    <string name="text_timepicker_title_end_hours">Изаберите време завршетка \n (између 06:00 и 23:59)</string>
+    <string name="text_next_in">Нект ин</string>
+    <string name="text_i_drink">Већ пијем воду!</string>
+
+
+    <string name="text_start_title">Старт тиме</string>
+    <string name="text_start_at">Почињемо од</string>
+    <string name="text_end_title">Приближно време до краја</string>
+    <string name="text_end_at">Закључили смо у близини</string>
+
+    <string name="text_news_title">Невс</string>
+    <string name="text_next">Следећи</string>
+    <string name="text_see_content">Погледајте садржај</string>
+
+    <string name="text_our_goal">Наш циљ</string>
+    <string name="text_change">Цханге</string>
+    <string name="text_reminder_title">Запамтите сваку: \n 2 сата и 48 минута</string>
+
+    <string name="text_drink_amount">Износ када пијете:</string>
+    <string name="text_skip_time">ЈУМП током:</string>
+    <string name="text_notification_title">Конфигурација обавештења</string>
+
+    <string name="text_cancel_drink">Откажи, лажни аларм</string>
+    <string name="text_how_much_you_drink">Колико сте пили?</string>
+
+    <string name="text_lets_rate">Хајде да проценимо</string>
+    <string name="text_rate_content">Одвојите тренутак да коментаришете и оцените ову нову верзију апликације. Уз добар рејтинг, много нам помажете да наставимо радити на побољшањима</string>
+    <string name="text_rate_title">Шта мислите о овој новој верзији апликације?</string>
+
+    <string name="text_notification_case_02">Регистрован од обавештења</string>
+    <string name="text_notification_case_03">Нисте пили воду. \n Ушли сте из обавештења</string>
+    <string name="text_notification_case_04">Прескочено из обавештења</string>
+    <string name="text_notification_case_05">Обавештење је затворено</string>
+    <string name="text_notification_case_06">Отишао си без пића</string>
+
+    <string name="text_congratulations">ЧЕСТИТАМО!</string>
+    <string name="text_congratulations_01">Достигли сте</string>
+    <string name="text_congratulations_02">овог дана. Постигао си свој циљ</string>
+    <string name="text_congratulations_03">и задржали сте своје тело хидрирано. Настави!</string>
+    <string name="text_congratulations_04">ЧЕСТИТАМО! Постигао си данашњи циљ</string>
+
+    <string name="coutdown_done_text_01">Вода нуди виталност и здравље, неопходне за обављање физичких активности и остати мотивисани.</string>
+    <string name="coutdown_done_text_02">Добра хидратација побољшава функционисање нашег тела.</string>
+    <string name="coutdown_done_text_03">Ваше тело ће се осећати много боље ако га одржите хидрираном.</string>
+    <string name="coutdown_done_text_04">Потрошња воде треба да буде када ваше тело то затражи, ако нисте жедни, онда не треба да пијете воду. Морате пронаћи праву равнотежу.</string>
+    <string name="coutdown_done_text_05">Редовна конзумација воде доприноси бољем функционисању бубрега.</string>
+    <string name="coutdown_done_text_06">Запамтите да имате циљ који желите да испуните</string>
+    <string name="coutdown_done_text_07">Није тешко, тражићемо чашу воде, корак по корак ...</string>
+    <string name="coutdown_done_text_08">Ако попијете око 10 чаша хладне воде дневно, можете спалити додатних 490 калорија тједно</string>
+    <string name="coutdown_done_text_09">Детоксикација тела, бољи тонус мишића и здравија кожа су неке од предности редовног узимања Х2О</string>
+    <string name="coutdown_done_text_10">Пожељно је пити воду са јелима пре других течности</string>
+    <string name="coutdown_done_text_11">Донесите малу боцу воде у канцеларију, школу, итд. зато не заборавите да останете хидрирани</string>
+    <string name="coutdown_done_text_12">Ако желите .. можете додати лимун у воду да бисте јој дали укус, а такође помаже да се редовно узима</string>
+    <string name="coutdown_done_text_13">Ментализујте се и не проналазите изговоре да не пијете воду, запамтите да је то есенцијални елемент у телу иу процесу губитка тежине. Након што га редовито узимаш 3 дана постаје навика ... или тако кажу ...</string>
+    <string name="coutdown_done_text_default">Јеси ли жедан?</string>
+    <string name="title_start_01">Добро јутро!</string>
+    <string name="title_start_02">Добро јутро!</string>
+    <string name="title_start_03">Време је за почетак</string>
+    <string name="title_start_04">Нови дан почиње</string>
+    <string name="title_start_05">Јеси ли добро спавао?</string>
+    <string name="title_start_06">Време је за почетак!</string>
+    <string name="title_start_07">Старт тиме!</string>
+    <string name="title_start_default">Време је да пијемо воду</string>
+    <string name="title_end_01">Време је да завршимо</string>
+    <string name="title_end_02">Завршавамо ... за данас</string>
+    <string name="title_end_03">Имамо сажетак дана</string>
+    <string name="title_end_default">Извештај дана!</string>
+    <string name="title_drink_time_01">Дошло је време</string>
+    <string name="title_drink_time_03">Јеси ли жедан?</string>
+    <string name="title_drink_time_04">Додирните сами хидрат</string>
+    <string name="title_drink_time_default">Пиј воду</string>
+    <string name="text_start_01">Почнимо да достигнемо данашњи циљ!</string>
+    <string name="text_start_02">Почнимо са нашим циљем</string>
+    <string name="text_start_03">воде за данас!</string>
+    <string name="text_start_04">Запамтите да пијете воду када се стварно осјећате жедни</string>
+    <string name="text_start_05">Изгубите лијеност и почните да хидрирате свој дан!</string>
+    <string name="text_start_06">Спремни сте да попијете прву чашу воде?</string>
+    <string name="text_start_default">Време је да устанете са десном ногом</string>
+    <string name="text_end_01">Ти си конзумирао</string>
+    <string name="text_end_02">. Унесите да бисте видели више детаља</string>
+    <string name="text_end_03">Узео си</string>
+    <string name="text_end_04">овог дана</string>
+    <string name="text_end_default">Да ли желите да знате у које време сте пили воду данас? Унесите и прегледајте свој сажетак</string>
+    <string name="text_drink_time_01">Стигао је Х2О сат</string>
+    <string name="text_drink_time_02">Хеј, јеси ли већ жедан?</string>
+    <string name="text_drink_time_03">Додирните сами хидрат</string>
+    <string name="text_drink_time_default">Пијте воду само када сте жедни</string>
+    <string name="big_text_start_01">Рано, пијте воду мирно. Избегавајте проблеме са гутањем, ваше тело тек почиње</string>
+    <string name="big_text_start_02">Подсећамо вас да пијете воду када сте жедни, можете мало да сачекате ако још увек не желите да устанете из кревета</string>
+    <string name="big_text_start_03">Надам се да сте добро спавали! Уверавам вас да ће вам сада хидратизирати помоћи да узмете енергију за почетак дана</string>
+    <string name="big_text_start_04">Можда вам је удобно у кревету ... или сте можда на путу да радите ... пијете воду када можете, можете прескочити своју прву чашу ако још нисте спремни</string>
+    <string name="big_text_start_05">Пијење 1 или 2 чаше воде на празан желудац је идеално за елиминацију токсина и свих супстанци које нашем организму не треба.</string>
+    <string name="big_text_start_06">Чаша воде или више поста помаже да се минимизирају штетни ефекти супстанци као што су алкохол, дуван, загађење, јунк фоод, између осталих.</string>
+    <string name="big_text_start_07">Хеј, за борбу и спречавање затвора можете почети са Х2О ујутро јер стимулише кретање црева, али ако је то прва чаша то ради мирно</string>
+    <string name="big_text_start_default">Током ноћи тело ради поправке ћелија и обавља унутрашње чишћење, због тога је испијање чаше воде на празан стомак веома добро, јер ће то омогућити телу да ослободи сав отпад који му није потребан, кроз урина</string>
+    <string name="big_text_end_01">Потрошили сте</string>
+    <string name="big_text_end_02">Запамтите да је важно да наставите, не заборавите да погледате своју активност тако што ћете кликнути на ово обавештење</string>
+    <string name="big_text_end_03">велл доне! Обавештења се више неће појављивати на вашем телефону, то ће бити до следећег почетка</string>
+    <string name="big_text_end_04">Данас имамо ваш резиме! Уђите и погледајте како је било данас</string>
+    <string name="big_text_end_default_01">Сати одмора почињу сада и ви сте прогутали</string>
+    <string name="big_text_end_default_02">до овог тренутка. Унесите ово обавештење да бисте видели детаље</string>
+    <string name="big_text_end_goal_reached_01">ЧЕСТИТКА! \n Успјели сте да испуните свој дневни циљ</string>
+    <string name="big_text_end_goal_reached_02">воде данас</string>
+    <string name="big_text_end_goal_reached_03">ЕКСЦЕЛЛЕНТ! \n Витх</string>
+    <string name="big_text_end_goal_reached_04">Успели сте да прођете кроз успостављени бренд. Одличан дан!</string>
+    <string name="big_text_end_goal_reached_05">Дошли сте до циља! \n Учинили сте то, данас уђите и погледајте своју активност. ФОЛЛОВ АСИ!</string>
+    <string name="big_text_end_goal_reached_default_01">ДОСАДИТЕ! \n Они су</string>
+    <string name="big_text_end_goal_reached_default_02">које је ваше тело додало да ради исправно \n Много честитки! \n \n Унесите ово обавештење да бисте видели своју активност</string>
+    <string name="big_text_drink_time_01">Да ли знате да вода за пиће олакшава умор? Вода се користи од стране тела да би елиминисала токсине и отпадне производе које није потребно. Када у телу има мање воде, срце мора да ради напорније да пумпа крв у кисеонику у све ћелије и друге главне органе и то може изазвати умор. Идемо на чашу воде!</string>
+    <string name="big_text_drink_time_02">Здрава кожа? Вода помаже у обнављању ткива коже, хидратизира и повећава њену еластичност. Када тело добије довољно воде, кожа ће бити хидрирана. Такође помаже код ожиљака, акни, бора и других симптома старења</string>
+    <string name="big_text_drink_time_03">Неке студије показују да потрошња воде такође смањује ризик од рака бешике и дебелог црева. Вода уништава агенсе који узрокују рак смањујући ризик од различитих врста рака.</string>
+    <string name="big_text_drink_time_04">Лош задах је јасан знак да је телу потребно више воде. Слина помаже вашим устима да се ослободе бактерија и држе језик хидрираним. Због тога, сваки пут када имамо лош задах, прво што треба да урадимо је да попијемо пуно воде</string>
+    <string name="big_text_drink_time_05">Х2О помаже да се елиминишу нуспроизводи масти. Када пијемо, желудац се пуни и губимо апетит. Вода не садржи калорије, масти, угљене хидрате или шећер и одлична је замена за висококалорична пића</string>
+    <string name="big_text_drink_time_06">Ингестирање воде подиже природну одбрану нашег тела и има подмазујући ефекат на наше мишиће и зглобове, јер их штити и помаже им да правилно функционишу. Ово побољшава снагу наших лигамената и мишића.</string>
+    <string name="big_text_drink_time_07">Ако не желиш да пијеш сада ћу те подсетити за пар минута касније ...</string>
+    <string name="big_text_drink_time_default">Лош задах је јасан знак да је телу потребно више воде. Слина помаже вашим устима да се ослободе бактерија и држе језик хидрираним. Због тога, сваки пут када имамо лош задах, прво што треба да урадимо је да попијемо пуно воде</string>
+</resources>

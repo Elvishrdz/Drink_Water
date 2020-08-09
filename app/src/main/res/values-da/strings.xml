@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">drikke vand app</string>
+    <string name="channel_description">meddelelser om at drikke vand</string>
+
+    <string name="monday">mandag</string>
+    <string name="tuesday">tirsdag</string>
+    <string name="wednesday">onsdag</string>
+    <string name="thursday">torsdag</string>
+    <string name="friday">fredag</string>
+    <string name="saturday">lørdag</string>
+    <string name="sunday">søndag</string>
+    <string name="january">januar</string>
+    <string name="fabruary">februar</string>
+    <string name="march">marts</string>
+    <string name="april">april</string>
+    <string name="may">maj</string>
+    <string name="june">juni</string>
+    <string name="july">juli</string>
+    <string name="august">august</string>
+    <string name="september">september</string>
+    <string name="october">oktober</string>
+    <string name="november">november</string>
+    <string name="december">december</string>
+    <string name="text_hour">tid</string>
+    <string name="text_minute">minut</string>
+    <string name="text_second">sekund</string>
+    <string name="text_hours">timer</string>
+    <string name="text_minutes">minutter</string>
+    <string name="text_seconds">sekunder</string>
+    <string name="validate_email_empty">Indtast en email adresse!</string>
+    <string name="validate_email_invalid">ugyldig adresse</string>
+    <string name="validate_password_empty">Indtast et kodeord!</string>
+    <string name="validate_password_too_short">meget kort adgangskode!</string>
+    <string name="validate_phone_empty">tomt nummer</string>
+    <string name="validate_phone_incomplete">ufuldstændigt antal</string>
+    <string name="validate_phone_too_long">for omfattende nummer</string>
+    <string name="validate_phone_only_numbers">posten må ikke indeholde bogstaver kun tal</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">privatlivspolitik</string>
+    <string name="privacy_policy_alert">Du skal acceptere politikkerne for at bruge ansøgningen</string>
+    <string name="privacy_policy_accept">Jeg har læst og jeg er enig med privatlivspolitikken</string>
+    <string name="text_continue">fortsætte</string>
+
+    <string name="text_ouch">Ouch!</string>
+    <string name="text_ss_validating_config">validering af konfiguration ...</string>
+    <string name="text_ss_getting_language">at få sprog ...</string>
+    <string name="text_ss_showing_pp">viser vores privatlivspolitik</string>
+    <string name="ss_getting_content">får indhold ...</string>
+    <string name="ss_not_connected">Du er ikke forbundet til internettet ... Kontroller din forbindelse</string>
+    <string name="ss_getting_info">hentning af oplysninger fra applikationen ...</string>
+    <string name="ss_checking_news">tjekker nye nyheder ...</string>
+    <string name="ss_verifying_user">verificerer brugeren ...</string>
+    <string name="ss_loading_content">indlæser indhold ...</string>
+    <string name="permission_request_01">Ansøgningen kræver tilladelse til visse tilladelser til korrekt drift.</string>
+    <string name="permission_request_02">Ansøgningen kræver tilladelse til visse tilladelser til korrekt drift. For mere information om hver enkelt af dem, se vores privatlivspolitik</string>
+    <string name="ss_confirm_permissions_1">bekræfter indledende tilladelser til ansøgningen ...</string>
+    <string name="ss_confirm_permissions_2">bekræfter ansøgningsrettigheder ...</string>
+    <string name="ss_confirm_permissions_3">Tilladelser er nødvendige for at starte ansøgningen</string>
+    <string name="ss_starting">starter ...</string>
+
+    <string name="permission_system_alert_window">Du har brug for tilladelse til at vise en widget på skærmen, når du opnår dit daglige vandmål.</string>
+    <string name="permission_read_external">læs tilladelse er nødvendig for at få oplysninger oprettet af ansøgningen med hensyn til den aktuelle bruger.</string>
+    <string name="permission_write_external">Skrivetilladelse er nødvendig for at gemme vigtige oplysninger lokalt og strømline indlæsningen af tjenester.</string>
+
+    <string name="permission_grant">tillade</string>
+
+    <string name="permission_system_alert_windows">Vi har brug for tilladelse til at vise en widget på skærmen på din telefon, når du når dit mål</string>
+    <string name="permission_system_alert_windows_explanation">nødvendigt, for eksempel: vis tillykke widget</string>
+    <string name="permission_read_external_title">vi har brug for læsetilladelser!</string>
+    <string name="permission_read_external_explanation">nødvendigt, for eksempel: at hente vanddrinkoptegnelser, tidspunkter mv.</string>
+    <string name="permission_write_external_title">vi har brug for skrive tilladelser!</string>
+    <string name="permission_write_external_explanation">nødvendigt, for eksempel: at gemme din session på telefonen.</string>
+
+
+    <string name="button_login">logon</string>
+    <string name="text_sign_up">Registrer</string>
+    <string name="text_return">afkast</string>
+    <string name="text_password">adgangskode</string>
+    <string name="text_email">e-mail</string>
+    <string name="text_forgot_password">Glemt adgangskode?</string>
+    <string name="text_join">slutte</string>
+    <string name="text_send_password_instructions">send instruktioner</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>pounds</item>
+        <item>kg</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>milliliter</item>
+        <item>liter</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5min</item>
+        <item>10min</item>
+        <item>15min</item>
+        <item>20min</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10ml</item>
+        <item>50ml</item>
+        <item>100ml</item>
+        <item>150ml</item>
+    </string-array>
+
+
+    <string name="exit_press_again">Tryk igen for at afslutte</string>
+    <string name="message_app_disabled">For øjeblikket er programmet deaktiveret, prøv igen om et øjeblik</string>
+    <string name="message_update_new_version">en ny version er tilgængelig. download det nu!</string>
+    <string name="text_download">downloade</string>
+    <string name="text_exit">kom ud</string>
+    <string name="text_later">senere</string>
+    <string name="text_accept">acceptere</string>
+    <string name="text_permissions">tilladelser</string>
+    <string name="text_session_in_other_device">Aktiv session på en anden enhed!</string>
+
+    <string name="app_global_name">drikke vand</string>
+    <string name="welcome_guide_01">vil vejlede dig til at justere efter dine præferencer</string>
+    <string name="text_welcome">velkommen</string>
+    <string name="welcome_guide_02">hvad er din vægt nu?</string>
+    <string name="welcome_guide_03">sæt mål manuelt</string>
+    <string name="welcome_guide_04">Vi beregner et indledende mål for dig</string>
+    <string name="welcome_guide_05">1000 milliliter</string>
+    <string name="welcome_guide_06">brug beregnet beløb</string>
+    <string name="welcome_guide_07">sæt mål manuelt</string>
+    <string name="welcome_guide_08">Ønsker du at etablere dette som dit daglige mål?</string>
+    <string name="welcome_guide_09">Bare rolig, du kan ændre disse værdier senere i appen</string>
+    <string name="welcome_guide_10">Dit daglige beregnede forbrug er</string>
+    <string name="welcome_guide_11">Hvor meget vil du nå per dag?</string>
+    <string name="welcome_guide_12">Hvor ofte vil du blive husket?</string>
+    <string name="welcome_guide_13">Når du drikker vand, vil vi vente et stykke tid, før vi meddeler dig igen.</string>
+    <string name="welcome_guide_14">Hvornår om morgenen ønsker du at starte drikkevand?</string>
+    <string name="welcome_guide_15">mellem kl. 1:00 til 12:00 p.m.</string>
+    <string name="welcome_guide_16">Hvornår om natten vil du stoppe med at modtage underretninger? (Om)</string>
+    <string name="welcome_guide_17">mellem kl. 18.00 til 11:59</string>
+    <string name="welcome_guide_18">Når du har meddelelsen, kan du vælge mellem at hoppe i et stykke tid og drikke en foruddefineret mængde vand uden at skulle indtaste ansøgningen</string>
+    <string name="text_drink">at drikke</string>
+    <string name="text_skip">hoppe</string>
+    <string name="welcome_guide_19">tid til at drikke vand! du har 970ml i dag. Dit mål er 1 liter.</string>
+    <string name="welcome_guide_20">Vi vil sende dig beskeder, så du husker at drikke vand</string>
+    <string name="text_notifications">underretninger</string>
+    <string name="welcome_guide_21">hvor meget tid vil du have, når du udelader en anmeldelse?</string>
+    <string name="welcome_guide_22">Bare rolig, du kan ændre disse værdier senere i appen</string>
+    <string name="welcome_guide_23">Hvor meget vil du registrere, når du trykker på drikkeknappen i en anmeldelse?</string>
+    <string name="welcome_guide_24">Bare rolig, du kan ændre disse værdier senere i appen</string>
+    <string name="text_start">starten</string>
+    <string name="welcome_guide_25">Du vil blive underrettet hvert 45 minut, så du opnår dit daglige mål om 1,5 liter vand (1500 milliliter)</string>
+    <string name="welcome_guide_26">vi er klar!</string>
+    <string name="text_enter_a_valid_amout">indtast et gyldigt beløb</string>
+    <string name="text_enter_an_amount_greater_lbs">Indtast et beløb større end 10 pund</string>
+    <string name="text_enter_an_amount_greater_kg">Indtast et beløb større end 5 kg</string>
+    <string name="text_liters">liter</string>
+    <string name="text_mililiters">milliliter</string>
+    <string name="text_something_isnt_correct">returnerer og genberegner, noget er ikke korrekt</string>
+    <string name="text_interval_too_short">intervallet er for kort</string>
+    <string name="text_interval_too_big">intervallet er for stort</string>
+    <string name="text_out_of_range_hour">den valgte tid er ikke inden for rækkevidde</string>
+    <string name="text_welcome_stats_01">du vil blive underrettet hver</string>
+    <string name="text_welcome_stats_02">så du opnår dit daglige mål om</string>
+    <string name="text_welcome_stats_03">af vand</string>
+
+    <string name="water_drink_01">Du har avanceret med 27 sekunder til din vandtid</string>
+    <string name="water_drink_02">Vand hjælper med at fugte huden</string>
+    <string name="water_drink_03">næste i 55 minutter 30 sekunder</string>
+    <string name="text_enable_alarm">aktiver alarm</string>
+    <string name="text_disable_alarm">deaktiver alarmen</string>
+    <string name="text_drink_water">drikke vand</string>
+    <string name="water_drink_04">du bærer 150 ml 1000l</string>
+    <string name="dialog_text_reactivate_alarm">Vi har allerede bestået din sluttid. Vil du fortsætte med at modtage alarmer?</string>
+    <string name="dialog_exit">nej, lad dig gå</string>
+    <string name="dialog_extend_hours">ja, forlæng tid</string>
+    <string name="text_drinking_over">Drik periode færdig!</string>
+    <string name="text_share_content">hej! prøv denne app at huske at drikke vand, jeg anbefaler det:</string>
+    <string name="text_share_subject">lad os drikke vand!</string>
+    <string name="text_share_title">Del app med venner!</string>
+    <string name="text_your_goal_01">dit mål er i dag</string>
+    <string name="text_your_goal_02">af vand</string>
+    <string name="text_remember_each">husk hver:</string>
+    <string name="text_timepicker_title">Hvor ofte vil du modtage underretninger?</string>
+    <string name="text_your_record_so_far">dette er rekord af din dag hidtil</string>
+    <string name="text_goal_reached_01">Tillykke! Du har allerede nået dit mål i dag!</string>
+    <string name="text_goal_reached_02">godt færdig! Du har nået dit mål i dag!</string>
+    <string name="text_hurra">bravo!</string>
+    <string name="text_progress_01">fremskridt: du bærer</string>
+    <string name="text_progress_02">Dit mål er</string>
+    <string name="text_stats_01">Du er kommet fremad</string>
+    <string name="text_stats_02">på dit tidspunkt at drikke vand</string>
+    <string name="text_drink_water_now">drik vand nu</string>
+    <string name="dialog_huawei_title">Huawei</string>
+    <string name="dialog_huawei_message">det er nødvendigt at tilføje appen til listen over beskyttede apps for at modtage underretninger</string>
+    <string name="text_proceed">Fortsæt</string>
+    <string name="text_its_done">det er gjort</string>
+    <string name="text_of">af</string>
+    <string name="text_report_title">optegnelser af</string>
+    <string name="text_report_loading">indlæsning af poster ...</string>
+    <string name="text_report_no_records">Du har endnu ikke optegnelser!</string>
+    <string name="text_record_yesterday">se gårsdagens rekord</string>
+    <string name="text_record_today">se dagens optegnelser</string>
+    <string name="text_custom_milliliters">tilsættes milliliter</string>
+    <string name="text_amount_empty">mængden er tom</string>
+    <string name="text_amount_greater_than">mængden skal være større end 10</string>
+    <string name="text_todays_records">dagens optegnelser</string>
+    <string name="text_your_record_yesterday">disse er optegnelserne i går</string>
+
+    <string name="text_first_drink_01">klar til at drikke vand til enhver tid!</string>
+    <string name="text_first_drink_02">Lad os starte ... tag et glas vand nu, tryk på knappen og vælg derefter det beløb du tog. Fortsæt derefter med dine aktiviteter, som vi vil fortælle dig, når du skal drikke igen</string>
+    <string name="text_break_hours_01">hviletid! meddelelser er deaktiveret</string>
+    <string name="text_break_hours_02">alarmen er slukket ... tag et glas vand nu, tryk på knappen og vælg derefter det beløb du indtaster. Hvis du stadig vil modtage alarmer, kan du forlænge din sluttid i indstillingerne</string>
+    <string name="text_vol_unit_mililiters">ml</string>
+    <string name="text_vol_unit_liters">l</string>
+    <string name="text_you_have">du bærer</string>
+    <string name="text_well_done">godt færdig!</string>
+    <string name="text_timepicker_title_start_hours">vælg starttidspunktet (mellem kl. 01.00 til 12.00)</string>
+    <string name="text_timepicker_title_end_hours">vælg klokkeslæt for at afslutte (mellem kl. 06.00 til kl. 11:59)</string>
+    <string name="text_next_in">næste i</string>
+    <string name="text_i_drink">Jeg drikker allerede vand!</string>
+
+
+    <string name="text_start_title">starttidspunkt</string>
+    <string name="text_start_at">vi starter på</string>
+    <string name="text_end_title">omtrentlig tid til afslutning</string>
+    <string name="text_end_at">vi konkluderer nær</string>
+
+    <string name="text_news_title">ny</string>
+    <string name="text_next">følgende</string>
+    <string name="text_see_content">se indhold</string>
+
+    <string name="text_our_goal">vores mål</string>
+    <string name="text_change">forandring</string>
+    <string name="text_reminder_title">Husk hver: 2 timer 48 minutter</string>
+
+    <string name="text_drink_amount">mængde, når du drikker:</string>
+    <string name="text_skip_time">spring under:</string>
+    <string name="text_notification_title">Meddelelseskonfiguration</string>
+
+    <string name="text_cancel_drink">annullere, falsk alarm</string>
+    <string name="text_how_much_you_drink">Hvor meget har du drukket?</string>
+
+    <string name="text_lets_rate">lad os vurdere</string>
+    <string name="text_rate_content">Tag et øjeblik til at kommentere og bedøm denne nye version af ansøgningen. Med en god bedømmelse hjælper du os meget med at fortsætte med at arbejde på forbedringer</string>
+    <string name="text_rate_title">Hvad synes du om denne nye version af appen?</string>
+
+    <string name="text_notification_case_02">registreret siden anmeldelsen</string>
+    <string name="text_notification_case_03">du har ikke drikke vand Du er indtastet fra anmeldelsen</string>
+    <string name="text_notification_case_04">hoppet over fra anmeldelsen</string>
+    <string name="text_notification_case_05">anmeldelsen blev lukket</string>
+    <string name="text_notification_case_06">du forlod uden at drikke</string>
+
+    <string name="text_congratulations">Tillykke!</string>
+    <string name="text_congratulations_01">du har nået</string>
+    <string name="text_congratulations_02">af vand i løbet af denne dag. Du har nået dit mål om</string>
+    <string name="text_congratulations_03">og du har holdt din krop hydreret. hold det op!</string>
+    <string name="text_congratulations_04">Tillykke! du nåede dagens mål</string>
+
+    <string name="coutdown_done_text_01">vand giver vitalitet og sundhed, der er nødvendigt for at udføre fysiske aktiviteter og være motiveret.</string>
+    <string name="coutdown_done_text_02">En god hydrering forbedrer vores krops funktion.</string>
+    <string name="coutdown_done_text_03">Din krop vil føle sig meget bedre, hvis du holder den hydreret.</string>
+    <string name="coutdown_done_text_04">Vandforbrug bør være, når din krop beder om det. Hvis du ikke tørster, skal du ikke drikke vand. Du skal finde den rette balance.</string>
+    <string name="coutdown_done_text_05">et regelmæssigt forbrug af vand bidrager til en bedre funktion af nyrerne.</string>
+    <string name="coutdown_done_text_06">Husk at du har et mål, du vil møde</string>
+    <string name="coutdown_done_text_07">Det er ikke svært, lad os finde et glas vand, et skridt ad gangen ...</string>
+    <string name="coutdown_done_text_08">Hvis du drikker omkring 10 glas koldt vand om dagen, vil du brænde en ekstra 490 kalorier om ugen</string>
+    <string name="coutdown_done_text_09">Body detoxification, bedre muskel tone og sundere hud er nogle af fordelene ved regelmæssigt indtage h2o</string>
+    <string name="coutdown_done_text_10">Det er bedre at drikke vand med måltider inden andre væsker</string>
+    <string name="coutdown_done_text_11">tag en lille flaske vand til kontoret, til skolen mv. så glem ikke at blive hydreret</string>
+    <string name="coutdown_done_text_12">hvis du vil .. du kan tilføje citron til vandet for at give det smag, det hjælper også med at drikke mere regelmæssigt</string>
+    <string name="coutdown_done_text_13">få mentaliseret og ikke finde undskyldninger for ikke at drikke vand, husk at det er et vigtigt element i kroppen og i færd med vægttab. efter at have taget det regelmæssigt i 3 dage bliver det en vane ... eller så siger de ...</string>
+    <string name="coutdown_done_text_default">Er du tørstig?</string>
+    <string name="title_start_01">god morgen!</string>
+    <string name="title_start_02">god dag!</string>
+    <string name="title_start_03">tid til at starte</string>
+    <string name="title_start_04">Ny dag begynder</string>
+    <string name="title_start_05">sov du godt?</string>
+    <string name="title_start_06">starttid!</string>
+    <string name="title_start_07">starttid!</string>
+    <string name="title_start_default">tid til at drikke vand</string>
+    <string name="title_end_01">tid til at afslutte</string>
+    <string name="title_end_02">vi er færdige ... for i dag</string>
+    <string name="title_end_03">vi har dagens sammendrag</string>
+    <string name="title_end_default">rapport om dagen!</string>
+    <string name="title_drink_time_01">timen ankom</string>
+    <string name="title_drink_time_03">Er du tørstig?</string>
+    <string name="title_drink_time_04">røre ved fugt</string>
+    <string name="title_drink_time_default">drikke vand</string>
+    <string name="text_start_01">lad os begynde at nå dagens mål!</string>
+    <string name="text_start_02">lad os starte med vores mål om</string>
+    <string name="text_start_03">af vand til i dag!</string>
+    <string name="text_start_04">Husk at drikke vand, når du virkelig føler dig tørstig</string>
+    <string name="text_start_05">miste din dovenskab og begynde at hydrere din dag!</string>
+    <string name="text_start_06">klar til at drikke dit første glas vand?</string>
+    <string name="text_start_default">tid til at komme op med den højre fod</string>
+    <string name="text_end_01">du forbruges</string>
+    <string name="text_end_02">. Indtast for at se flere detaljer</string>
+    <string name="text_end_03">du tog</string>
+    <string name="text_end_04">af vand i løbet af denne dag</string>
+    <string name="text_end_default">Vil du vide, på hvilke tidspunkter har du drikke vand i dag? Indtast og gennemgå dit resumé</string>
+    <string name="text_drink_time_01">timen ankom h2o</string>
+    <string name="text_drink_time_02">Hej, er du allerede tørstig?</string>
+    <string name="text_drink_time_03">røre ved fugt</string>
+    <string name="text_drink_time_default">drik kun vand, når du tørster</string>
+    <string name="big_text_start_01">dette tidligt, drikke vand roligt. Undgå problemer med at sluge, din krop er lige begyndt</string>
+    <string name="big_text_start_02">vi minder dig om at drikke vand, når du tørster, du kan vente lidt, hvis du stadig ikke vil komme ud af sengen</string>
+    <string name="big_text_start_03">Jeg håber du har sovet godt! Jeg forsikrer dig om, at fugtighed nu hjælper dig med at tage energi til at starte dagen</string>
+    <string name="big_text_start_04">måske er du komfortabel i sengen ... eller måske er du på vej til arbejde ... drikker vand, når du kan, du kan springe dit første glas, hvis du ikke er klar endnu</string>
+    <string name="big_text_start_05">At drikke 1 eller 2 glas vand på tom mave er ideel til eliminering af toksiner og alle de stoffer, som vores krop ikke har brug for.</string>
+    <string name="big_text_start_06">et glas vand eller mere på en tom mave hjælper med at minimere de skadelige virkninger af stoffer som alkohol, tobak, forurening, junkfood, blandt andre.</string>
+    <string name="big_text_start_07">hej for at bekæmpe og forhindre forstoppelse, du kan starte med h2o om morgenen, da det stimulerer tarmbevægelsen, men hvis det er det første glas gør det roligt</string>
+    <string name="big_text_start_default">om natten arbejder kroppen med at reparere celler og laver intern rengøring. Derfor er det meget godt at drikke et glas vand på en tom mave, da det vil give kroppen et skub for at frigøre alt det affald, det ikke behøver, gennem urin</string>
+    <string name="big_text_end_01">har du brugt</string>
+    <string name="big_text_end_02">Husk at det er vigtigt at holde op, husk at kigge på din aktivitet ved at klikke på denne meddelelse</string>
+    <string name="big_text_end_03">godt færdig! Meddelelser vises ikke længere på din telefon, det vil være indtil næste starttidspunkt</string>
+    <string name="big_text_end_04">vi har dit resumé i dag! gå ind og se hvordan det var i dag</string>
+    <string name="big_text_end_default_01">hviletiden starter nu og du har indtaget</string>
+    <string name="big_text_end_default_02">indtil dette øjeblik. Indtast denne meddelelse for at se detaljer</string>
+    <string name="big_text_end_goal_reached_01">Tillykke! Du har formået at afslutte dit daglige mål med</string>
+    <string name="big_text_end_goal_reached_02">af vand indtaget i dag</string>
+    <string name="big_text_end_goal_reached_03">fremragende! med</string>
+    <string name="big_text_end_goal_reached_04">Du har formået at passere det etablerede mærke. fremragende dag!</string>
+    <string name="big_text_end_goal_reached_05">Du har nået målet! Du gjorde det, gå ind og se på din aktivitet i dag. hold det op!</string>
+    <string name="big_text_end_goal_reached_default_01">du gjorde det! de er</string>
+    <string name="big_text_end_goal_reached_default_02">at din krop har tilføjet til rigtigt at køre mange tillykke! Indtast denne meddelelse for at se din aktivitet</string>
+    <string name="big_text_drink_time_01">Ved du, at drikkevand hjælper med at lindre træthed? vand bruges af kroppen til at fjerne giftstoffer og affaldsprodukter, at det ikke har brug for. når der er mindre vand i kroppen, hjertet skal arbejde hårdere for at pumpe iltet blod til alle celler og andre større organer, og som kan forårsage træthed. lad os gå til et glas vand!</string>
+    <string name="big_text_drink_time_02">en sund hud? vand hjælper med at genopbygge hudens væv, såvel som fugt og forøge dets elasticitet. Når kroppen får nok vand, bliver huden hydreret. hjælper også med ar, acne, rynker og andre symptomer på aldring</string>
+    <string name="big_text_drink_time_03">Nogle undersøgelser viser, at vandforbruget også reducerer risikoen for blære og tykktarmskræft. Vand ødelægger kræftfremkaldende stoffer ved at reducere risikoen for forskellige former for kræft.</string>
+    <string name="big_text_drink_time_04">Dårlig ånde er et tydeligt tegn på, at kroppen har brug for mere vand. spyt hjælper munden med at slippe af med bakterier og holde tungen hydreret. Derfor, hver gang vi har dårlig ånde, er det første, vi skal gøre, at drikke meget vand</string>
+    <string name="big_text_drink_time_05">h2o hjælper med at fjerne biprodukter fra fedt. når vi drikker vores mave fylder det os og får os til at tabe vores appetit lidt. vand indeholder ingen kalorier, fedt, kulhydrater eller sukker og er en stor erstatning for højt kalorieholdige drikkevarer</string>
+    <string name="big_text_drink_time_06">Indtaget vand hæver kroppens naturlige forsvar og har en smørende effekt på vores muskler og led, da det beskytter dem og hjælper dem med at fungere ordentligt. dette forbedrer styrken af vores ledbånd og muskler.</string>
+    <string name="big_text_drink_time_07">hvis du ikke vil drikke nu vil jeg minde om et par minutter senere ...</string>
+    <string name="big_text_drink_time_default">Dårlig ånde er et tydeligt tegn på, at kroppen har brug for mere vand. spyt hjælper munden med at slippe af med bakterier og holde tungen hydreret. Derfor, hver gang vi har dårlig ånde, er det første, vi skal gøre, at drikke meget vand</string>
+</resources>

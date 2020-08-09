@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ADMOB -->
+    <string name="ads_app_id" translatable="false">ca-app-pub-9403893294190125~4239664850</string>
+    <string name="ads_banner_ad_unit_id" translatable="false">ca-app-pub-9403893294190125/8776486293</string>
+    <string name="com.crashlytics.useFirebaseAppId" translatable="false">true</string>
+</resources>

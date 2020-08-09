@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drink Water App</string>
+    <string name="channel_description">Meldingen om water te drinken</string>
+
+    <string name="monday">maandag</string>
+    <string name="tuesday">dinsdag</string>
+    <string name="wednesday">woensdag</string>
+    <string name="thursday">donderdag</string>
+    <string name="friday">vrijdag</string>
+    <string name="saturday">zaterdag</string>
+    <string name="sunday">zondag</string>
+    <string name="january">januari</string>
+    <string name="fabruary">februari</string>
+    <string name="march">maart</string>
+    <string name="april">april</string>
+    <string name="may">mei</string>
+    <string name="june">juni</string>
+    <string name="july">juli</string>
+    <string name="august">augustus</string>
+    <string name="september">september</string>
+    <string name="october">oktober</string>
+    <string name="november">november</string>
+    <string name="december">december</string>
+    <string name="text_hour">tijd</string>
+    <string name="text_minute">minuut</string>
+    <string name="text_second">tweede</string>
+    <string name="text_hours">uur</string>
+    <string name="text_minutes">notulen</string>
+    <string name="text_seconds">seconden</string>
+    <string name="validate_email_empty">Voer een e-mailadres in!</string>
+    <string name="validate_email_invalid">Ongeldig adres</string>
+    <string name="validate_password_empty">Voer een wachtwoord in!</string>
+    <string name="validate_password_too_short">Zeer kort wachtwoord!</string>
+    <string name="validate_phone_empty">Leeg nummer</string>
+    <string name="validate_phone_incomplete">Onvolledig nummer</string>
+    <string name="validate_phone_too_long">Nummer te uitgebreid</string>
+    <string name="validate_phone_only_numbers">Invoer mag geen letters alleen cijfers bevatten</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">Privacybeleid</string>
+    <string name="privacy_policy_alert">U moet het beleid accepteren om de applicatie te gebruiken</string>
+    <string name="privacy_policy_accept">Ik heb het privacybeleid gelezen en ga hiermee akkoord</string>
+    <string name="text_continue">voortzetten</string>
+
+    <string name="text_ouch">Ouch!</string>
+    <string name="text_ss_validating_config">Instellingen valideren ...</string>
+    <string name="text_ss_getting_language">Taal leren ...</string>
+    <string name="text_ss_showing_pp">Ons privacybeleid tonen</string>
+    <string name="ss_getting_content">Inhoud ophalen ...</string>
+    <string name="ss_not_connected">U bent niet verbonden met internet ... Controleer uw verbinding</string>
+    <string name="ss_getting_info">Informatie verkrijgen van de applicatie ...</string>
+    <string name="ss_checking_news">Nieuws controleren ...</string>
+    <string name="ss_verifying_user">Gebruiker verifiëren ...</string>
+    <string name="ss_loading_content">Inhoud laden ...</string>
+    <string name="permission_request_01">De toepassing vereist de goedkeuring van een aantal vergunningen voor een goede werking.</string>
+    <string name="permission_request_02">De toepassing vereist toestemming voor bepaalde rechten voor een correcte bewerking. \n Raadpleeg ons privacybeleid voor meer informatie over elk van deze rechten</string>
+    <string name="ss_confirm_permissions_1">Aanvragen van eerste app-machtigingen bevestigen ...</string>
+    <string name="ss_confirm_permissions_2">Toepassingsmachtigingen bevestigen ...</string>
+    <string name="ss_confirm_permissions_3">Machtigingen zijn vereist om de applicatie te starten</string>
+    <string name="ss_starting">Beginnen met ...</string>
+
+    <string name="permission_system_alert_window">U hebt toestemming nodig om een widget op uw scherm weer te geven wanneer u uw dagelijkse waterdoel bereikt.</string>
+    <string name="permission_read_external">Leesmachtiging is nodig om informatie te verkrijgen die door de toepassing is gemaakt met betrekking tot de huidige gebruiker.</string>
+    <string name="permission_write_external">Er is schrijfautorisatie nodig om belangrijke informatie lokaal op te slaan en het laden van services te stroomlijnen.</string>
+
+    <string name="permission_grant">toestaan</string>
+
+    <string name="permission_system_alert_windows">We hebben toestemming nodig om een widget op het scherm van uw telefoon weer te geven wanneer u uw doel bereikt</string>
+    <string name="permission_system_alert_windows_explanation">Vereist, bijvoorbeeld: Toon Gefeliciteerd widget</string>
+    <string name="permission_read_external_title">We hebben leesrechten nodig!</string>
+    <string name="permission_read_external_explanation">Noodzakelijk, bijvoorbeeld: om records van waterdruppels, tijden enz. Op te halen.</string>
+    <string name="permission_write_external_title">We hebben de schrijfrechten nodig!</string>
+    <string name="permission_write_external_explanation">Noodzakelijk, bijvoorbeeld: om uw sessie via de telefoon op te slaan.</string>
+
+
+    <string name="button_login">login</string>
+    <string name="text_sign_up">Registreer</string>
+    <string name="text_return">terugkeer</string>
+    <string name="text_password">wachtwoord</string>
+    <string name="text_email">elektronische post</string>
+    <string name="text_forgot_password">Wachtwoord vergeten?</string>
+    <string name="text_join">toetreden</string>
+    <string name="text_send_password_instructions">Verzend instructies</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>pond</item>
+        <item>kilogram</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>milliliter</item>
+        <item>liters</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5min</item>
+        <item>10min</item>
+        <item>15min</item>
+        <item>20min</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10 ml</item>
+        <item>50 ml</item>
+        <item>100 ml</item>
+        <item>150 ml</item>
+    </string-array>
+
+
+    <string name="exit_press_again">Druk opnieuw op om af te sluiten</string>
+    <string name="message_app_disabled">Momenteel is de applicatie uitgeschakeld, probeer het over enkele ogenblikken opnieuw ...</string>
+    <string name="message_update_new_version">Er is een nieuwe versie beschikbaar. Download het nu!</string>
+    <string name="text_download">DOWNLOAD</string>
+    <string name="text_exit">afrit</string>
+    <string name="text_later">later</string>
+    <string name="text_accept">aanvaarden</string>
+    <string name="text_permissions">toestemmingen</string>
+    <string name="text_session_in_other_device">Actieve sessie op een ander apparaat!</string>
+
+    <string name="app_global_name">DRINK WATER</string>
+    <string name="welcome_guide_01">Het zal u begeleiden om aan te passen aan uw voorkeuren</string>
+    <string name="text_welcome">welkom</string>
+    <string name="welcome_guide_02">Wat is je gewicht nu?</string>
+    <string name="welcome_guide_03">Stel META handmatig in</string>
+    <string name="welcome_guide_04">We zullen een eerste doel voor u berekenen</string>
+    <string name="welcome_guide_05">1000 milliliter</string>
+    <string name="welcome_guide_06">Gebruik berekende hoeveelheid</string>
+    <string name="welcome_guide_07">Stel META handmatig in</string>
+    <string name="welcome_guide_08">Wil je dit vaststellen als je dagelijkse doel?</string>
+    <string name="welcome_guide_09">Maakt u zich geen zorgen, u kunt deze waarden later in de app wijzigen</string>
+    <string name="welcome_guide_10">Uw berekende verbruik per dag is</string>
+    <string name="welcome_guide_11">Hoeveel wil je per dag bereiken?</string>
+    <string name="welcome_guide_12">Hoe vaak wil je herinnerd worden?</string>
+    <string name="welcome_guide_13">Als u water drinkt, wachten we even voordat we u opnieuw op de hoogte brengen.</string>
+    <string name="welcome_guide_14">Hoe laat vanochtend wil je beginnen met het drinken van water?</string>
+    <string name="welcome_guide_15">Tussen 13:00 en 12:00 uur</string>
+    <string name="welcome_guide_16">Op welk tijdstip van de nacht wilt u geen meldingen meer ontvangen? (Over)</string>
+    <string name="welcome_guide_17">Tussen 06:00 en 23:59 uur</string>
+    <string name="welcome_guide_18">Wanneer je de melding hebt, kun je een tijdje kiezen tussen SKIPPING en DRINKEN van een vooraf bepaalde hoeveelheid water zonder de applicatie te hoeven invoeren.</string>
+    <string name="text_drink">beber</string>
+    <string name="text_skip">JUMP</string>
+    <string name="welcome_guide_19">Tijd om water te drinken! Je draagt vandaag 970 ml. Je doel is 1 liter.</string>
+    <string name="welcome_guide_20">We sturen je meldingen zodat je weet dat je water moet drinken</string>
+    <string name="text_notifications">meldingen</string>
+    <string name="welcome_guide_21">Hoe lang wil je als je een melding weglaat?</string>
+    <string name="welcome_guide_22">Maakt u zich geen zorgen, u kunt deze waarden later in de app wijzigen</string>
+    <string name="welcome_guide_23">Hoeveel wilt u registreren wanneer u op de DRINK-knop drukt in een melding?</string>
+    <string name="welcome_guide_24">Maakt u zich geen zorgen, u kunt deze waarden later in de app wijzigen</string>
+    <string name="text_start">begin</string>
+    <string name="welcome_guide_25">U krijgt elke 45 minuten een melding om uw dagelijkse doel van 1,5 liter water (1500 milliliter) te bereiken</string>
+    <string name="welcome_guide_26">We zijn klaar!</string>
+    <string name="text_enter_a_valid_amout">Voer een geldig bedrag in</string>
+    <string name="text_enter_an_amount_greater_lbs">Voer een hoeveelheid van meer dan 10 pond in</string>
+    <string name="text_enter_an_amount_greater_kg">Voer een hoeveelheid van meer dan 5 kilogram in</string>
+    <string name="text_liters">liters</string>
+    <string name="text_mililiters">milliliter</string>
+    <string name="text_something_isnt_correct">Ga terug en herbereken, iets klopt niet</string>
+    <string name="text_interval_too_short">Het interval is te kort</string>
+    <string name="text_interval_too_big">Het interval is te groot</string>
+    <string name="text_out_of_range_hour">De geselecteerde tijd valt niet binnen het bereik</string>
+    <string name="text_welcome_stats_01">Je wordt om de zoveel tijd op de hoogte gesteld</string>
+    <string name="text_welcome_stats_02">zodat je je dagelijkse doel bereikt van</string>
+    <string name="text_welcome_stats_03">van water</string>
+
+    <string name="water_drink_01">Je bent met 27 seconden vooruitgegaan naar je watertijd</string>
+    <string name="water_drink_02">Water helpt je huid te hydrateren</string>
+    <string name="water_drink_03">Volgende in 55 minuten 30 seconden</string>
+    <string name="text_enable_alarm">Activeer alarm</string>
+    <string name="text_disable_alarm">Alarm deactiveren</string>
+    <string name="text_drink_water">Drink water</string>
+    <string name="water_drink_04">Je draagt 150 ml 1000L</string>
+    <string name="dialog_text_reactivate_alarm">We hebben uw eindtijd al overschreden. Wilt u doorgaan met het ontvangen van alarmen?</string>
+    <string name="dialog_exit">Nee, ga naar buiten</string>
+    <string name="dialog_extend_hours">Ja, verleng de tijd</string>
+    <string name="text_drinking_over">Periode van drinken afgelopen! \n</string>
+    <string name="text_share_content">Hello! Probeer deze app om u eraan te herinneren dat u water moet drinken, ik raad het u aan:</string>
+    <string name="text_share_subject">Laten we water drinken!</string>
+    <string name="text_share_title">Deel de app met vrienden!</string>
+    <string name="text_your_goal_01">Je doel van vandaag is om</string>
+    <string name="text_your_goal_02">van water</string>
+    <string name="text_remember_each">Onthoud elk:</string>
+    <string name="text_timepicker_title">Hoe vaak wilt u meldingen ontvangen?</string>
+    <string name="text_your_record_so_far">Dit is het record van je dag tot nu toe</string>
+    <string name="text_goal_reached_01">GEFELICITEERD! \n Je hebt je doel vandaag al bereikt!</string>
+    <string name="text_goal_reached_02">Goed gedaan! Je hebt vandaag je doel bereikt!</string>
+    <string name="text_hurra">Bravo!</string>
+    <string name="text_progress_01">Voortgang: \n U neemt</string>
+    <string name="text_progress_02">je doel is</string>
+    <string name="text_stats_01">Je bent langs gekomen</string>
+    <string name="text_stats_02">op dat moment om water te drinken</string>
+    <string name="text_drink_water_now">Drink nu water</string>
+    <string name="dialog_huawei_title">HUAWEI</string>
+    <string name="dialog_huawei_message">Het is vereist om de app toe te voegen aan de lijst met beschermde apps om meldingen te ontvangen</string>
+    <string name="text_proceed">gaan</string>
+    <string name="text_its_done">Het is klaar</string>
+    <string name="text_of">van</string>
+    <string name="text_report_title">Records van \n</string>
+    <string name="text_report_loading">Records laden ...</string>
+    <string name="text_report_no_records">Je hebt nog geen records!</string>
+    <string name="text_record_yesterday">Zie het record van gisteren</string>
+    <string name="text_record_today">Bekijk de records van vandaag</string>
+    <string name="text_custom_milliliters">Voeg milliliters toe</string>
+    <string name="text_amount_empty">Het bedrag is leeg</string>
+    <string name="text_amount_greater_than">De hoeveelheid moet groter zijn dan 10</string>
+    <string name="text_todays_records">De records van vandaag</string>
+    <string name="text_your_record_yesterday">Dit zijn de gegevens van gisteren</string>
+
+    <string name="text_first_drink_01">Klaar om water te drinken op elk moment!</string>
+    <string name="text_first_drink_02">Laten we beginnen ... \n \n Neem nu een glas water, druk op de knop en selecteer vervolgens de hoeveelheid die u hebt ingenomen. \n Na door te gaan met je activiteiten zullen we je laten weten wanneer je weer moet drinken</string>
+    <string name="text_break_hours_01">Rust uren! \n Meldingen zijn uitgeschakeld</string>
+    <string name="text_break_hours_02">Het alarm is uitgeschakeld ... \n \n Neem nu een glas water, druk op de knop en selecteer vervolgens de hoeveelheid die u hebt ingenomen. \n Als u nog steeds een alarm wilt ontvangen, kunt u uw eindtijd in de instellingen verlengen</string>
+    <string name="text_vol_unit_mililiters">mL</string>
+    <string name="text_vol_unit_liters">L</string>
+    <string name="text_you_have">Jij draagt</string>
+    <string name="text_well_done">Goed gedaan!</string>
+    <string name="text_timepicker_title_start_hours">Selecteer de starttijd \n (tussen 01:00 en 12:00 uur)</string>
+    <string name="text_timepicker_title_end_hours">Selecteer de eindtijd \n (tussen 06:00 uur en 23:59 uur)</string>
+    <string name="text_next_in">Volgende in</string>
+    <string name="text_i_drink">Ik drink al water!</string>
+
+
+    <string name="text_start_title">Starttijd</string>
+    <string name="text_start_at">We beginnen om</string>
+    <string name="text_end_title">Geschatte tijd om te eindigen</string>
+    <string name="text_end_at">We besluiten in de buurt van de</string>
+
+    <string name="text_news_title">Wat is nieuw?</string>
+    <string name="text_next">volgend</string>
+    <string name="text_see_content">Zie inhoud</string>
+
+    <string name="text_our_goal">Ons doel</string>
+    <string name="text_change">verandering</string>
+    <string name="text_reminder_title">Onthoud elk: \n 2 uur en 48 minuten</string>
+
+    <string name="text_drink_amount">Bedrag bij DRINKEN:</string>
+    <string name="text_skip_time">JUMP tijdens:</string>
+    <string name="text_notification_title">Meldingsconfiguratie</string>
+
+    <string name="text_cancel_drink">Annuleren, vals alarm</string>
+    <string name="text_how_much_you_drink">Hoeveel heb je \n dronken?</string>
+
+    <string name="text_lets_rate">Laten we beoordelen</string>
+    <string name="text_rate_content">Neem even de tijd om opmerkingen te maken en deze nieuwe versie van de applicatie te beoordelen. Met een goede beoordeling helpt u ons veel om te blijven werken aan verbeteringen</string>
+    <string name="text_rate_title">Wat denk je van deze nieuwe versie van de app?</string>
+
+    <string name="text_notification_case_02">Geregistreerd sinds de melding</string>
+    <string name="text_notification_case_03">Je hebt geen water gedronken. \n Je hebt de melding ingevoerd</string>
+    <string name="text_notification_case_04">Overgeslagen uit de melding</string>
+    <string name="text_notification_case_05">De melding was gesloten</string>
+    <string name="text_notification_case_06">Je ging weg zonder te drinken</string>
+
+    <string name="text_congratulations">GEFELICITEERD!</string>
+    <string name="text_congratulations_01">Je hebt bereikt</string>
+    <string name="text_congratulations_02">van water tijdens deze dag. Je hebt je doel bereikt</string>
+    <string name="text_congratulations_03">en je hebt je lichaam gehydrateerd gehouden. Ga zo door!</string>
+    <string name="text_congratulations_04">GEFELICITEERD! JE HEBT HET DOEL VANDAAG BEREIKT</string>
+
+    <string name="coutdown_done_text_01">Water biedt vitaliteit en gezondheid, noodzakelijk om fysieke activiteiten uit te voeren en gemotiveerd te blijven.</string>
+    <string name="coutdown_done_text_02">Een goede hydratatie verbetert de werking van ons lichaam.</string>
+    <string name="coutdown_done_text_03">Je lichaam zal zich veel beter voelen als je het gehydrateerd houdt.</string>
+    <string name="coutdown_done_text_04">Waterverbruik moet zijn wanneer uw lichaam ernaar vraagt, als u geen dorst heeft, dan moet u geen water drinken. Je moet de juiste balans vinden.</string>
+    <string name="coutdown_done_text_05">Een regelmatige consumptie van water draagt bij aan een beter functioneren van de nieren.</string>
+    <string name="coutdown_done_text_06">Onthoud dat je een doel hebt dat je wilt ontmoeten</string>
+    <string name="coutdown_done_text_07">Het is niet moeilijk, we gaan een glas water zoeken, één stap per keer ...</string>
+    <string name="coutdown_done_text_08">Als je ongeveer 10 glazen koud water per dag drinkt, verbrand je 490 extra calorieën per week</string>
+    <string name="coutdown_done_text_09">Ontgifting van het lichaam, een betere spierspanning en een gezondere huid zijn enkele van de voordelen van het regelmatig innemen van H2O</string>
+    <string name="coutdown_done_text_10">Het verdient de voorkeur om water te drinken met maaltijden vóór andere vloeistoffen</string>
+    <string name="coutdown_done_text_11">Breng een flesje water naar kantoor, school, etc. dus vergeet niet om gehydrateerd te blijven</string>
+    <string name="coutdown_done_text_12">Als je wilt .. kun je citroen aan het water toevoegen om het een smaakje te geven, het helpt ook om vaker te nemen</string>
+    <string name="coutdown_done_text_13">Mentaliseren en geen excuses vinden om geen water te drinken, onthoud dat het een essentieel element is in het lichaam en tijdens het proces van gewichtsverlies. Na 3 dagen regelmatig te hebben ingenomen, wordt het een gewoonte ... of zo zeggen ze ...</string>
+    <string name="coutdown_done_text_default">Heb je dorst?</string>
+    <string name="title_start_01">Goede morgen!</string>
+    <string name="title_start_02">Goede morgen!</string>
+    <string name="title_start_03">Tijd om te beginnen</string>
+    <string name="title_start_04">Nieuwe dag begint</string>
+    <string name="title_start_05">Heb je goed geslapen?</string>
+    <string name="title_start_06">Tijd om te beginnen!</string>
+    <string name="title_start_07">Starttijd!</string>
+    <string name="title_start_default">Tijd om water te drinken</string>
+    <string name="title_end_01">Tijd om te eindigen</string>
+    <string name="title_end_02">We eindigen ... voor vandaag</string>
+    <string name="title_end_03">We hebben de samenvatting van de dag</string>
+    <string name="title_end_default">Verslag van de dag!</string>
+    <string name="title_drink_time_01">De tijd is gekomen</string>
+    <string name="title_drink_time_03">Heb je dorst?</string>
+    <string name="title_drink_time_04">Raak zelf hydrateren aan</string>
+    <string name="title_drink_time_default">Drink water</string>
+    <string name="text_start_01">Laten we het doel van vandaag beginnen te bereiken!</string>
+    <string name="text_start_02">Laten we beginnen met ons doel van</string>
+    <string name="text_start_03">van water voor vandaag!</string>
+    <string name="text_start_04">Vergeet niet om water te drinken als je echt dorst hebt</string>
+    <string name="text_start_05">Verlies luiheid en begin je dag te hydrateren!</string>
+    <string name="text_start_06">Klaar om je eerste glas water te drinken?</string>
+    <string name="text_start_default">Tijd om op te staan met de rechtervoet</string>
+    <string name="text_end_01">Je hebt verbruikt</string>
+    <string name="text_end_02">. Enter om meer details te zien</string>
+    <string name="text_end_03">Je nam</string>
+    <string name="text_end_04">van water tijdens deze dag</string>
+    <string name="text_end_default">Wil je weten op welke uren heb je water gedronken vandaag? Voer je samenvatting in en bekijk deze</string>
+    <string name="text_drink_time_01">Het H2O uur arriveerde</string>
+    <string name="text_drink_time_02">Hé, heb je al dorst?</string>
+    <string name="text_drink_time_03">Raak zelf hydrateren aan</string>
+    <string name="text_drink_time_default">Drink alleen water als je dorst hebt</string>
+    <string name="big_text_start_01">Vroeger drink je kalm water. Vermijd problemen met slikken, je lichaam is net begonnen</string>
+    <string name="big_text_start_02">We herinneren je eraan om water te drinken als je dorst hebt, je kunt een beetje wachten als je nog steeds niet uit bed wilt.</string>
+    <string name="big_text_start_03">Ik hoop dat je goed geslapen hebt! Ik verzeker u dat hydratatie nu u zal helpen om energie te nemen om de dag te beginnen</string>
+    <string name="big_text_start_04">Misschien zit je comfortabel in bed ... of ben je misschien op weg naar je werk ... drink water als je kunt, je kunt je eerste glas overslaan als je nog niet klaar bent</string>
+    <string name="big_text_start_05">Het drinken van 1 of 2 glazen water op een lege maag is ideaal voor het verwijderen van gifstoffen en alle stoffen die ons lichaam niet nodig heeft.</string>
+    <string name="big_text_start_06">Een glas water of meer vasten helpt om de schadelijke effecten van onder andere alcohol, tabak, vervuiling en junkfood tot een minimum te beperken.</string>
+    <string name="big_text_start_07">Hé, om constipatie te bestrijden en te voorkomen, kun je \'s ochtends met H2O beginnen omdat het de darmbeweging stimuleert, maar als het het eerste glas is, doe het rustig</string>
+    <string name="big_text_start_default">Tijdens de nacht werkt het lichaam aan het repareren van cellen en aan het inwendig schoonmaken, daarom is het drinken van een glas water op een lege maag erg goed, omdat dit het lichaam een duw geeft om al het afval dat het niet nodig heeft vrij te maken, via de urine</string>
+    <string name="big_text_end_01">Je hebt geconsumeerd</string>
+    <string name="big_text_end_02">Vergeet niet dat het belangrijk is om bij te blijven, vergeet niet om uw activiteit te bekijken door op deze melding te klikken</string>
+    <string name="big_text_end_03">goed gedaan! Meldingen worden niet meer weergegeven op uw telefoon, dit is tot de volgende starttijd</string>
+    <string name="big_text_end_04">We hebben vandaag uw samenvatting! Ga naar binnen en kijk hoe het vandaag was</string>
+    <string name="big_text_end_default_01">De uren van rust beginnen nu en je hebt ingenomen</string>
+    <string name="big_text_end_default_02">tot dit moment. Voer deze melding in om details te bekijken</string>
+    <string name="big_text_end_goal_reached_01">GEFELICITEERD! \n Je hebt je dagelijkse doel kunnen voltooien met</string>
+    <string name="big_text_end_goal_reached_02">van water dat vandaag is ingenomen</string>
+    <string name="big_text_end_goal_reached_03">UITSTEKEND! \n Met</string>
+    <string name="big_text_end_goal_reached_04">U bent erin geslaagd om het gevestigde merk te passeren. Uitstekende dag!</string>
+    <string name="big_text_end_goal_reached_05">JE HEBT HET DOEL BEREIKT! \n Je deed het, ga naar binnen en bekijk vandaag je activiteit. VOLG ASI!</string>
+    <string name="big_text_end_goal_reached_default_01">U BEREIKT HET! \n Dat zijn ze</string>
+    <string name="big_text_end_goal_reached_default_02">dat uw lichaam heeft toegevoegd om goed te werken \n Veel Gefeliciteerd! \n \n Vul deze kennisgeving in om uw activiteit te zien</string>
+    <string name="big_text_drink_time_01">Weet je dat drinkwater helpt om vermoeidheid te verminderen? Water wordt door het lichaam gebruikt om toxines en afvalproducten te verwijderen die het niet nodig heeft. Wanneer er minder water in het lichaam is, moet het hart harder werken om het zuurstofrijke bloed naar alle cellen en andere belangrijke organen te pompen en dat kan vermoeidheid veroorzaken. Laten we gaan voor een glas water!</string>
+    <string name="big_text_drink_time_02">Een gezonde huid? Water helpt om de weefsels van de huid aan te vullen, evenals om te hydrateren en de elasticiteit te vergroten. Wanneer het lichaam voldoende water krijgt, wordt de huid gehydrateerd. Het helpt ook bij littekens, acne, rimpels en andere symptomen van veroudering</string>
+    <string name="big_text_drink_time_03">Sommige studies geven aan dat waterverbruik ook het risico op blaaskanker en darmkanker vermindert. Water vernietigt kankerverwekkende stoffen door het risico op verschillende soorten kanker te verminderen.</string>
+    <string name="big_text_drink_time_04">Slechte adem is een duidelijk teken dat het lichaam meer water nodig heeft. Speeksel helpt je mond om bacteriën te verwijderen en de tong gehydrateerd te houden. Daarom is het elke keer dat we een slechte adem hebben, het eerste dat we moeten doen, is veel water drinken</string>
+    <string name="big_text_drink_time_05">H2O helpt bijproducten van vet verwijderen. Als we drinken wordt de maag gevuld waardoor we wat eetlust verliezen. Water bevat geen calorieën, vet, koolhydraten of suiker en is een geweldige vervanging voor calorierijke drankjes</string>
+    <string name="big_text_drink_time_06">Inname van water verhoogt de natuurlijke afweer van ons lichaam en heeft een smerende effect op onze spieren en gewrichten, omdat het beschermt en helpt hen goed te laten werken. Dit verbetert de kracht van onze ligamenten en spieren.</string>
+    <string name="big_text_drink_time_07">Als je nu niet wilt drinken, zal ik je binnen een paar minuten later eraan herinneren ...</string>
+    <string name="big_text_drink_time_default">Slechte adem is een duidelijk teken dat het lichaam meer water nodig heeft. Speeksel helpt je mond om bacteriën te verwijderen en de tong gehydrateerd te houden. Daarom is het elke keer dat we een slechte adem hebben, het eerste dat we moeten doen, is veel water drinken</string>
+</resources>

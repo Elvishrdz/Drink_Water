@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">喝水app</string>
+    <string name="channel_description">喝水的通知</string>
+
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期天</string>
+    <string name="january">一月</string>
+    <string name="fabruary">二月</string>
+    <string name="march">3月</string>
+    <string name="april">四月</string>
+    <string name="may">五月</string>
+    <string name="june">六月</string>
+    <string name="july">七月</string>
+    <string name="august">八月</string>
+    <string name="september">九月</string>
+    <string name="october">十月</string>
+    <string name="november">十一月</string>
+    <string name="december">十二月</string>
+    <string name="text_hour">時間</string>
+    <string name="text_minute">分鐘</string>
+    <string name="text_second">第二</string>
+    <string name="text_hours">小時</string>
+    <string name="text_minutes">分鐘</string>
+    <string name="text_seconds">秒</string>
+    <string name="validate_email_empty">輸入電子郵件地址！</string>
+    <string name="validate_email_invalid">地址無效</string>
+    <string name="validate_password_empty">輸入密碼！</string>
+    <string name="validate_password_too_short">密碼很短！</string>
+    <string name="validate_phone_empty">空號碼</string>
+    <string name="validate_phone_incomplete">數字不完整</string>
+    <string name="validate_phone_too_long">數量太多了</string>
+    <string name="validate_phone_only_numbers">條目不得包含字母數字</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">隱私政策</string>
+    <string name="privacy_policy_alert">您必須接受使用該應用程序的策略</string>
+    <string name="privacy_policy_accept">我已閱讀並同意隱私政策</string>
+    <string name="text_continue">繼續</string>
+
+    <string name="text_ouch">哎喲！</string>
+    <string name="text_ss_validating_config">驗證配置......</string>
+    <string name="text_ss_getting_language">得到語言......</string>
+    <string name="text_ss_showing_pp">顯示我們的隱私政策</string>
+    <string name="ss_getting_content">獲取內容......</string>
+    <string name="ss_not_connected">你沒有連接到互聯網...檢查你的連接</string>
+    <string name="ss_getting_info">從應用程序獲取信息......</string>
+    <string name="ss_checking_news">檢查新消息......</string>
+    <string name="ss_verifying_user">驗證用戶...</string>
+    <string name="ss_loading_content">加載內容......</string>
+    <string name="permission_request_01">申請需要獲得一些許可才能正常運作。</string>
+    <string name="permission_request_02">申請需要獲得一些許可才能正常運作。有關每個人的更多信息，請查看我們的隱私政策</string>
+    <string name="ss_confirm_permissions_1">確認應用程序的初始權限...</string>
+    <string name="ss_confirm_permissions_2">確認申請許可......</string>
+    <string name="ss_confirm_permissions_3">啟動應用程序需要權限</string>
+    <string name="ss_starting">開始......</string>
+
+    <string name="permission_system_alert_window">當您達到每日水資源目標時，您需要獲得在屏幕上顯示小部件的權限。</string>
+    <string name="permission_read_external">需要讀取權限才能獲取應用程序針對當前用戶創建的信息。</string>
+    <string name="permission_write_external">需要寫入權限才能在本地存儲重要信息並簡化服務加載。</string>
+
+    <string name="permission_grant">允許</string>
+
+    <string name="permission_system_alert_windows">當您達到目標時，我們需要獲得在手機屏幕上顯示小部件的權限</string>
+    <string name="permission_system_alert_windows_explanation">必要的，例如：show congratulations widget</string>
+    <string name="permission_read_external_title">我們需要閱讀權限！</string>
+    <string name="permission_read_external_explanation">必要的，例如：檢索水飲料記錄，時間等</string>
+    <string name="permission_write_external_title">我們需要寫權限！</string>
+    <string name="permission_write_external_explanation">必要的，例如：在電話上保存會話。</string>
+
+
+    <string name="button_login">註冊</string>
+    <string name="text_sign_up">註冊</string>
+    <string name="text_return">回報</string>
+    <string name="text_password">密碼</string>
+    <string name="text_email">電子郵件</string>
+    <string name="text_forgot_password">忘了密碼？</string>
+    <string name="text_join">加入</string>
+    <string name="text_send_password_instructions">發送說明</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>英鎊</item>
+        <item>公斤</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>毫升</item>
+        <item>升</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5分鐘</item>
+        <item>10分鐘</item>
+        <item>15分鐘</item>
+        <item>20分鐘</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10毫升</item>
+        <item>50毫升</item>
+        <item>100毫升</item>
+        <item>150毫升</item>
+    </string-array>
+
+
+    <string name="exit_press_again">再次按下退出</string>
+    <string name="message_app_disabled">目前該應用程序已禁用，請稍後再試...</string>
+    <string name="message_update_new_version">有新版本。立即下載！</string>
+    <string name="text_download">下載</string>
+    <string name="text_exit">出來</string>
+    <string name="text_later">後來</string>
+    <string name="text_accept">接受</string>
+    <string name="text_permissions">權限</string>
+    <string name="text_session_in_other_device">另一台設備上的活動會話！</string>
+
+    <string name="app_global_name">喝水</string>
+    <string name="welcome_guide_01">將指導您根據自己的喜好進行調整</string>
+    <string name="text_welcome">歡迎</string>
+    <string name="welcome_guide_02">你現在的體重是多少？</string>
+    <string name="welcome_guide_03">手動設定目標</string>
+    <string name="welcome_guide_04">我們將為您計算一個初步目標</string>
+    <string name="welcome_guide_05">1000毫升</string>
+    <string name="welcome_guide_06">使用計算金額</string>
+    <string name="welcome_guide_07">手動設定目標</string>
+    <string name="welcome_guide_08">您想將此作為您的每日目標嗎？</string>
+    <string name="welcome_guide_09">不用擔心，您可以稍後在應用中更改這些值</string>
+    <string name="welcome_guide_10">你的每日計算消費是</string>
+    <string name="welcome_guide_11">你想每天多少錢？</string>
+    <string name="welcome_guide_12">你多久想記住一次？</string>
+    <string name="welcome_guide_13">當你喝水時，我們會等待一段時間才會再次通知你。</string>
+    <string name="welcome_guide_14">你想早上幾點開始喝水？</string>
+    <string name="welcome_guide_15">凌晨1點到12點之間</string>
+    <string name="welcome_guide_16">你想什麼時候停止接收通知？ （關於）</string>
+    <string name="welcome_guide_17">下午6點到晚上11:59之間</string>
+    <string name="welcome_guide_18">當您收到通知時，您可以決定跳躍一段時間並飲用預定量的水而無需進入應用程序</string>
+    <string name="text_drink">喝</string>
+    <string name="text_skip">跳</string>
+    <string name="welcome_guide_19">是時候喝水了！你今天穿970毫升。你的目標是1升。</string>
+    <string name="welcome_guide_20">我們會向您發送通知，以便您記得喝水</string>
+    <string name="text_notifications">通知</string>
+    <string name="welcome_guide_21">省略通知時你想要多長時間？</string>
+    <string name="welcome_guide_22">不用擔心，您可以稍後在應用中更改這些值</string>
+    <string name="welcome_guide_23">在通知中按下飲料按鈕時，您想要註冊多少？</string>
+    <string name="welcome_guide_24">不用擔心，您可以稍後在應用中更改這些值</string>
+    <string name="text_start">啟動</string>
+    <string name="welcome_guide_25">您每45分鐘會收到一次通知，這樣您就可以實現1.5升水（1500毫升）的每日目標</string>
+    <string name="welcome_guide_26">我們準備好了！</string>
+    <string name="text_enter_a_valid_amout">輸入有效金額</string>
+    <string name="text_enter_an_amount_greater_lbs">輸入大於10磅的量</string>
+    <string name="text_enter_an_amount_greater_kg">輸入大於5千克的數量</string>
+    <string name="text_liters">升</string>
+    <string name="text_mililiters">毫升</string>
+    <string name="text_something_isnt_correct">返回並重新計算，有些不正確</string>
+    <string name="text_interval_too_short">間隔太短</string>
+    <string name="text_interval_too_big">間隔太大</string>
+    <string name="text_out_of_range_hour">所選時間不在範圍內</string>
+    <string name="text_welcome_stats_01">你會得到通知</string>
+    <string name="text_welcome_stats_02">這樣你就可以實現你的每日目標</string>
+    <string name="text_welcome_stats_03">水</string>
+
+    <string name="water_drink_01">你的水上時間提前了27秒</string>
+    <string name="water_drink_02">水有助於滋潤肌膚</string>
+    <string name="water_drink_03">接下來在55分30秒</string>
+    <string name="text_enable_alarm">激活警報</string>
+    <string name="text_disable_alarm">停用鬧鐘</string>
+    <string name="text_drink_water">喝水</string>
+    <string name="water_drink_04">你攜帶150毫升1000升</string>
+    <string name="dialog_text_reactivate_alarm">我們已經過了你的結束時間。你想繼續收到警報嗎？</string>
+    <string name="dialog_exit">不，離開</string>
+    <string name="dialog_extend_hours">是的，延長時間</string>
+    <string name="text_drinking_over">喝完了！</string>
+    <string name="text_share_content">您好！嘗試這個應用程序記得喝水，我推薦它：</string>
+    <string name="text_share_subject">我們喝水吧！</string>
+    <string name="text_share_title">與朋友分享應用程序！</string>
+    <string name="text_your_goal_01">你今天的目標是</string>
+    <string name="text_your_goal_02">水</string>
+    <string name="text_remember_each">記住每個：</string>
+    <string name="text_timepicker_title">您希望多久收到一次通知？</string>
+    <string name="text_your_record_so_far">這是迄今為止你一天的記錄</string>
+    <string name="text_goal_reached_01">恭喜！你今天已經達到了目標！</string>
+    <string name="text_goal_reached_02">做得好！你今天達到了目標！</string>
+    <string name="text_hurra">好樣的！</string>
+    <string name="text_progress_01">進步：你隨身攜帶</string>
+    <string name="text_progress_02">你的目標是</string>
+    <string name="text_stats_01">你來了</string>
+    <string name="text_stats_02">在你喝水的時候</string>
+    <string name="text_drink_water_now">現在喝水</string>
+    <string name="dialog_huawei_title">華為</string>
+    <string name="dialog_huawei_message">需要將應用程序添加到受保護的應用程序列表以接收通知</string>
+    <string name="text_proceed">繼續</string>
+    <string name="text_its_done">它完成了</string>
+    <string name="text_of">的</string>
+    <string name="text_report_title">的記錄</string>
+    <string name="text_report_loading">加載記錄......</string>
+    <string name="text_report_no_records">你還沒有記錄！</string>
+    <string name="text_record_yesterday">看昨天的記錄</string>
+    <string name="text_record_today">看今天的記錄</string>
+    <string name="text_custom_milliliters">加毫升</string>
+    <string name="text_amount_empty">金額是空的</string>
+    <string name="text_amount_greater_than">數量必須大於10</string>
+    <string name="text_todays_records">今天的記錄</string>
+    <string name="text_your_record_yesterday">這些都是昨天的記錄</string>
+
+    <string name="text_first_drink_01">隨時準備喝水！</string>
+    <string name="text_first_drink_02">讓我們開始吧...現在喝一杯水，按下按鈕，然後選擇你拿的水量。然後繼續你的活動，我們會告訴你什麼時候你應該再喝</string>
+    <string name="text_break_hours_01">休息時間！通知已禁用</string>
+    <string name="text_break_hours_02">鬧鐘響了......現在喝一杯水，按下按鈕，然後選擇你攝取的量。如果您仍想接收警報，可以在設置中延長結束時間</string>
+    <string name="text_vol_unit_mililiters">毫升</string>
+    <string name="text_vol_unit_liters">升</string>
+    <string name="text_you_have">你隨身攜帶</string>
+    <string name="text_well_done">做得好！</string>
+    <string name="text_timepicker_title_start_hours">選擇開始時間（凌晨01:00至中午12:00）</string>
+    <string name="text_timepicker_title_end_hours">選擇完成時間（下午06:00至晚上11:59）</string>
+    <string name="text_next_in">下一個</string>
+    <string name="text_i_drink">我已經喝水了！</string>
+
+
+    <string name="text_start_title">開始時間</string>
+    <string name="text_start_at">我們從...開始</string>
+    <string name="text_end_title">大概完成的時間</string>
+    <string name="text_end_at">我們在附近得出結論</string>
+
+    <string name="text_news_title">新</string>
+    <string name="text_next">以下</string>
+    <string name="text_see_content">看內容</string>
+
+    <string name="text_our_goal">我們的目標</string>
+    <string name="text_change">變化</string>
+    <string name="text_reminder_title">記住每一個：2小時48分鐘</string>
+
+    <string name="text_drink_amount">飲酒量：</string>
+    <string name="text_skip_time">跳過期間：</string>
+    <string name="text_notification_title">通知配置</string>
+
+    <string name="text_cancel_drink">取消，誤報</string>
+    <string name="text_how_much_you_drink">你喝了多少錢？</string>
+
+    <string name="text_lets_rate">讓我們評分</string>
+    <string name="text_rate_content">花一點時間評論並評價該應用程序的新版本。評價很高，你可以幫助我們繼續改進</string>
+    <string name="text_rate_title">您如何看待這個新版本的應用程序？</string>
+
+    <string name="text_notification_case_02">自通知以來註冊</string>
+    <string name="text_notification_case_03">你沒喝水您是從通知中輸入的</string>
+    <string name="text_notification_case_04">從通知中跳過</string>
+    <string name="text_notification_case_05">通知已經結束</string>
+    <string name="text_notification_case_06">你沒有喝酒就離開了</string>
+
+    <string name="text_congratulations">恭喜！</string>
+    <string name="text_congratulations_01">你到了</string>
+    <string name="text_congratulations_02">在這一天的水。你已經實現了你的目標</string>
+    <string name="text_congratulations_03">而且你保持身體水分。堅持下去！</string>
+    <string name="text_congratulations_04">恭喜！你達到了今天的目標</string>
+
+    <string name="coutdown_done_text_01">水提供活力和健康，是進行體育活動和保持動力所必需的。</string>
+    <string name="coutdown_done_text_02">良好的保濕作用可以改善身體的功能。</string>
+    <string name="coutdown_done_text_03">如果保持水分，你的身體會感覺好多了。</string>
+    <string name="coutdown_done_text_04">用水量應該是當你的身體會問，如果你不口渴，那麼你不應該喝水。你必須找到正確的餘額。</string>
+    <string name="coutdown_done_text_05">經常飲水有助於腎臟更好地發揮作用。</string>
+    <string name="coutdown_done_text_06">記住你有一個你想要見的目標</string>
+    <string name="coutdown_done_text_07">這不難，讓我們一步一步找到一杯水......</string>
+    <string name="coutdown_done_text_08">如果你每天喝大約10杯冷水，你每週會額外燃燒490卡路里</string>
+    <string name="coutdown_done_text_09">身體排毒，更好的肌肉緊緻和更健康的皮膚是定期攝入h2o的一些好處</string>
+    <string name="coutdown_done_text_10">在其他液體之前，最好與膳食一起飲用水</string>
+    <string name="coutdown_done_text_11">把一小瓶水帶到辦公室，學校等等。所以不要忘記保持水分</string>
+    <string name="coutdown_done_text_12">如果你想...你可以在水中添加檸檬來給它帶來味道，它也有助於更經常地飲用</string>
+    <string name="coutdown_done_text_13">精神化，不找藉口不喝水，記住它是身體和減肥過程中必不可少的元素。定期服用3天后就成了一種習慣...或者他們說......</string>
+    <string name="coutdown_done_text_default">你口渴嗎？</string>
+    <string name="title_start_01">早上好！</string>
+    <string name="title_start_02">美好的一天！</string>
+    <string name="title_start_03">是時候開始了</string>
+    <string name="title_start_04">新的一天開始</string>
+    <string name="title_start_05">你睡得好嗎？</string>
+    <string name="title_start_06">開始時間！</string>
+    <string name="title_start_07">開始時間！</string>
+    <string name="title_start_default">是時候喝水了</string>
+    <string name="title_end_01">時間到了</string>
+    <string name="title_end_02">我們今天完成了......</string>
+    <string name="title_end_03">我們有一天的摘要</string>
+    <string name="title_end_default">當天的報導！</string>
+    <string name="title_drink_time_01">小時到了</string>
+    <string name="title_drink_time_03">你口渴嗎？</string>
+    <string name="title_drink_time_04">觸感滋潤</string>
+    <string name="title_drink_time_default">喝水</string>
+    <string name="text_start_01">讓我們開始達到今天的目標！</string>
+    <string name="text_start_02">讓我們從我們的目標開始吧</string>
+    <string name="text_start_03">今天的水！</string>
+    <string name="text_start_04">當你真的感到口渴時，記得要喝水</string>
+    <string name="text_start_05">失去你的懶惰，開始保濕你的一天！</string>
+    <string name="text_start_06">準備喝第一杯水？</string>
+    <string name="text_start_default">是時候起床了</string>
+    <string name="text_end_01">你消耗了</string>
+    <string name="text_end_02">。進入以查看更多詳細信息</string>
+    <string name="text_end_03">你拿了</string>
+    <string name="text_end_04">在這一天的水</string>
+    <string name="text_end_default">你想知道你今天幾點鐘喝水了嗎？輸入並查看您的摘要</string>
+    <string name="text_drink_time_01">小時到了h2o</string>
+    <string name="text_drink_time_02">嘿，你口渴了嗎？</string>
+    <string name="text_drink_time_03">觸感滋潤</string>
+    <string name="text_drink_time_default">只有在你口渴時才喝水</string>
+    <string name="big_text_start_01">這個早，平靜地喝水。避免吞嚥問題，你的身體才剛剛開始</string>
+    <string name="big_text_start_02">我們提醒你喝水時，你渴了，你可以稍等一下，如果你還不想下床</string>
+    <string name="big_text_start_03">我希望你睡得好！我保證，現在滋潤可以幫助你開始新的一天</string>
+    <string name="big_text_start_04">也許你在床上很舒服......或者你正在上班的路上......盡可能喝水，如果你還沒有準備就可以跳過你的第一杯</string>
+    <string name="big_text_start_05">空腹喝1或2杯水是消除毒素和身體不需要的所有物質的理想選擇。</string>
+    <string name="big_text_start_06">空腹喝一杯或更多水有助於減少酒精，煙草，污染，垃圾食品等物質的有害影響。</string>
+    <string name="big_text_start_07">嘿，為了對抗和防止便秘，你可以在早晨以h2o開始，因為它會刺激腸道運動，但如果它是第一杯，那就冷靜地做吧</string>
+    <string name="big_text_start_default">在夜間，身體正在修理細胞並進行內部清潔，因此，空腹喝一杯水是非常好的，因為這將使身體推動釋放它不需要的所有廢物，通過尿</string>
+    <string name="big_text_end_01">你用過嗎？</string>
+    <string name="big_text_end_02">請記住，保持警惕非常重要，請記住通過點擊此通知來查看您的活動</string>
+    <string name="big_text_end_03">做得好！通知將不再顯示在您的手機上，直到下一個開始時間</string>
+    <string name="big_text_end_04">我們今天有你的總結！進去看看今天是怎麼回事</string>
+    <string name="big_text_end_default_01">現在休息時間開始，你已經攝入了</string>
+    <string name="big_text_end_default_02">直到這一刻。輸入此通知以查看詳細信息</string>
+    <string name="big_text_end_goal_reached_01">恭喜！您設法完成了每日目標</string>
+    <string name="big_text_end_goal_reached_02">今天攝入的水</string>
+    <string name="big_text_end_goal_reached_03">太棒了！同</string>
+    <string name="big_text_end_goal_reached_04">您已成功通過了既定品牌。美好的一天！</string>
+    <string name="big_text_end_goal_reached_05">你已達到目標！你做到了，今天進去看看你的活動。堅持下去！</string>
+    <string name="big_text_end_goal_reached_default_01">你做到了！他們是</string>
+    <string name="big_text_end_goal_reached_default_02">你的身體已添加到正確運行許多祝賀！輸入此通知以查看您的活動</string>
+    <string name="big_text_drink_time_01">你知道飲用水有助於緩解疲勞嗎？身體使用水來消除它不需要的毒素和廢物。當體內水分較少時，心臟必須更加努力地將含氧血液泵送到所有細胞和其他主要器官，這會導致疲勞。我們來一杯水吧！</string>
+    <string name="big_text_drink_time_02">一個健康的皮膚？水有助於補充皮膚的組織，並滋潤和增加其彈性。當身體接收到足夠的水分時，皮膚就會水分化。還有助於治療疤痕，痤瘡，皺紋和其他衰老症狀</string>
+    <string name="big_text_drink_time_03">一些研究表明，水的消耗也降低了膀胱癌和結腸癌的風險。水通過降低不同類型癌症的風險來破壞致癌因子。</string>
+    <string name="big_text_drink_time_04">口臭是身體需要更多水分的明顯標誌。唾液可以幫助你的嘴去除細菌，保持舌頭水分。因此，每當我們有口臭，我們應該做的第一件事就是喝大量的水</string>
+    <string name="big_text_drink_time_05">h2o有助於消除脂肪中的副產品。當我們喝了它們的胃時，它會讓我們疲憊不堪，讓我們失去胃口。水不含卡路里，脂肪，碳水化合物或糖，是高熱量飲料的絕佳替代品</string>
+    <string name="big_text_drink_time_06">攝取水會增強我們身體的自然防禦能力，並對我們的肌肉和關節產生潤滑作用，因為它可以保護它們並幫助它們正常運作。這可以提高我們的韌帶和肌肉的力量。</string>
+    <string name="big_text_drink_time_07">如果你現在不想喝酒，我會在幾分鐘後提醒你......</string>
+    <string name="big_text_drink_time_default">口臭是身體需要更多水分的明顯標誌。唾液可以幫助你的嘴去除細菌，保持舌頭水分。因此，每當我們有口臭，我們應該做的第一件事就是喝大量的水</string>
+</resources>

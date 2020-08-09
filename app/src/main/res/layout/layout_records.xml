@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="7dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:clickable="true"
+        android:focusable="true">
+
+        <RelativeLayout
+            android:id="@+id/Rcontainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/buttonRecordClose"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="false"
+                android:layout_centerVertical="false"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="7dp"
+
+                android:background="@drawable/button_background_03_selector"
+                android:paddingTop="8dp"
+                android:paddingRight="4dp"
+                android:paddingBottom="7dp"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/icon_arrow_left" />
+
+            <TextView
+                android:id="@+id/textViewRecordTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="7dp"
+                android:layout_marginStart="7dp"
+                android:layout_marginEnd="7dp"
+                android:layout_toRightOf="@+id/buttonRecordClose"
+                android:gravity="left|center_vertical|center_horizontal"
+                android:text="Registros de\njueves 23 de abril 2019"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerRecords"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/buttonSwitchDate"
+            android:layout_below="@+id/Rcontainer"
+            android:layout_marginBottom="8dp"
+            android:clipToPadding="true"
+            android:paddingTop="8dp"
+            android:visibility="gone"
+            tools:listitem="@layout/item_record" />
+
+        <ProgressBar
+            android:id="@+id/progressBarRecord"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textViewRecordMessage"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+
+        <TextView
+            android:id="@+id/textViewRecordMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_horizontal"
+            android:text="Cargando registros" />
+
+        <Button
+            android:id="@+id/buttonSwitchDate"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/button_background_03_selector"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="@string/text_record_yesterday"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+

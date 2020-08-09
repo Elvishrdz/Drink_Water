@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पानी एप्लिकेशन पीते हैं</string>
+    <string name="channel_description">पानी पीने के लिए सूचनाएं</string>
+
+    <string name="monday">सोमवार</string>
+    <string name="tuesday">मंगलवार</string>
+    <string name="wednesday">बुधवार</string>
+    <string name="thursday">बृहस्पतिवार</string>
+    <string name="friday">शुक्रवार</string>
+    <string name="saturday">शनिवार</string>
+    <string name="sunday">रविवार</string>
+    <string name="january">जनवरी</string>
+    <string name="fabruary">फरवरी</string>
+    <string name="march">मार्च</string>
+    <string name="april">अप्रैल</string>
+    <string name="may">मई</string>
+    <string name="june">जून</string>
+    <string name="july">जुलाई</string>
+    <string name="august">अगस्त</string>
+    <string name="september">सितंबर</string>
+    <string name="october">अक्टूबर</string>
+    <string name="november">नवंबर</string>
+    <string name="december">दिसंबर</string>
+    <string name="text_hour">समय</string>
+    <string name="text_minute">मिनट</string>
+    <string name="text_second">दूसरा</string>
+    <string name="text_hours">घंटे</string>
+    <string name="text_minutes">मिनट</string>
+    <string name="text_seconds">सेकंड</string>
+    <string name="validate_email_empty">एक ईमेल पता दर्ज करें!</string>
+    <string name="validate_email_invalid">अमान्य पता</string>
+    <string name="validate_password_empty">एक पासवर्ड दर्ज करें!</string>
+    <string name="validate_password_too_short">बहुत ही कम पासवर्ड!</string>
+    <string name="validate_phone_empty">खाली नंबर</string>
+    <string name="validate_phone_incomplete">अधूरा नंबर</string>
+    <string name="validate_phone_too_long">बहुत व्यापक संख्या</string>
+    <string name="validate_phone_only_numbers">प्रवेश में केवल अंक नहीं होने चाहिए</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">गोपनीयता नीतियों</string>
+    <string name="privacy_policy_alert">आपको एप्लिकेशन का उपयोग करने के लिए नीतियों को स्वीकार करना चाहिए</string>
+    <string name="privacy_policy_accept">मैंने पढ़ा है और मैं गोपनीयता नीतियों से सहमत हूं</string>
+    <string name="text_continue">जारी रखने के लिए</string>
+
+    <string name="text_ouch">आउच!</string>
+    <string name="text_ss_validating_config">कॉन्फ़िगरेशन मान्य कर रहा है ...</string>
+    <string name="text_ss_getting_language">भाषा हो रही है ...</string>
+    <string name="text_ss_showing_pp">हमारी गोपनीयता नीतियों को दिखा रहा है</string>
+    <string name="ss_getting_content">सामग्री प्राप्त कर रहा है ...</string>
+    <string name="ss_not_connected">आप इंटरनेट से कनेक्ट नहीं हैं ... अपना कनेक्शन जांचें</string>
+    <string name="ss_getting_info">आवेदन से जानकारी प्राप्त कर रहा है ...</string>
+    <string name="ss_checking_news">नई खबर की जाँच ...</string>
+    <string name="ss_verifying_user">उपयोगकर्ता की पुष्टि कर रहा है ...</string>
+    <string name="ss_loading_content">सामग्री लोड हो रही है ...</string>
+    <string name="permission_request_01">एप्लिकेशन को उचित संचालन के लिए कुछ परमिट के प्राधिकरण की आवश्यकता होती है।</string>
+    <string name="permission_request_02">एप्लिकेशन को उचित संचालन के लिए कुछ परमिट के प्राधिकरण की आवश्यकता होती है। उनमें से हर एक के बारे में अधिक जानकारी के लिए हमारी गोपनीयता नीति देखें</string>
+    <string name="ss_confirm_permissions_1">आवेदन की प्रारंभिक अनुमतियों की पुष्टि ...</string>
+    <string name="ss_confirm_permissions_2">एप्लिकेशन अनुमतियों की पुष्टि कर रहा है ...</string>
+    <string name="ss_confirm_permissions_3">आवेदन शुरू करने के लिए अनुमतियां आवश्यक हैं</string>
+    <string name="ss_starting">शुरू हो रहा है ...</string>
+
+    <string name="permission_system_alert_window">जब आप अपने दैनिक जल लक्ष्य को प्राप्त करते हैं तो आपको अपनी स्क्रीन पर एक विजेट दिखाने की अनुमति चाहिए।</string>
+    <string name="permission_read_external">वर्तमान उपयोगकर्ता के संबंध में एप्लिकेशन द्वारा बनाई गई जानकारी प्राप्त करने के लिए रीड अनुमति की आवश्यकता है।</string>
+    <string name="permission_write_external">महत्वपूर्ण जानकारी को स्थानीय रूप से संग्रहीत करने और सेवाओं के लोडिंग को कारगर बनाने के लिए लेखन अनुमति की आवश्यकता होती है।</string>
+
+    <string name="permission_grant">अनुमति देते हैं</string>
+
+    <string name="permission_system_alert_windows">आपके लक्ष्य तक पहुँचने पर हमें आपके फ़ोन की स्क्रीन पर एक विजेट दिखाने की अनुमति चाहिए</string>
+    <string name="permission_system_alert_windows_explanation">आवश्यक है, उदाहरण के लिए: बधाई विजेट दिखाएं</string>
+    <string name="permission_read_external_title">हमें पढ़ने की अनुमति चाहिए!</string>
+    <string name="permission_read_external_explanation">आवश्यक है, उदाहरण के लिए: पानी पीने के रिकॉर्ड, समय आदि को पुनः प्राप्त करने के लिए।</string>
+    <string name="permission_write_external_title">हमें लिखने की अनुमति चाहिए!</string>
+    <string name="permission_write_external_explanation">आवश्यक है, उदाहरण के लिए: फोन पर अपना सत्र बचाने के लिए।</string>
+
+
+    <string name="button_login">लॉग इन</string>
+    <string name="text_sign_up">रजिस्टर</string>
+    <string name="text_return">वापसी</string>
+    <string name="text_password">पासवर्ड</string>
+    <string name="text_email">ईमेल</string>
+    <string name="text_forgot_password">पासवर्ड भूल गए?</string>
+    <string name="text_join">में शामिल होने के</string>
+    <string name="text_send_password_instructions">निर्देश भेजें</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>पौंड</item>
+        <item>किलो</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>मिलीलीटर</item>
+        <item>लीटर</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5min</item>
+        <item>10min</item>
+        <item>15 मिनट</item>
+        <item>20min</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10ml</item>
+        <item>50 मिलीलीटर</item>
+        <item>100 मिलीलीटर</item>
+        <item>150ml</item>
+    </string-array>
+
+
+    <string name="exit_press_again">बाहर निकलने के लिए फिर से दबाएं</string>
+    <string name="message_app_disabled">वर्तमान में एप्लिकेशन अक्षम है, कुछ ही क्षणों में पुन: प्रयास करें ...</string>
+    <string name="message_update_new_version">एक नया संस्करण उपलब्ध है। इसे अभी डाउनलोड करें!</string>
+    <string name="text_download">डाउनलोड</string>
+    <string name="text_exit">बाहर आओ</string>
+    <string name="text_later">बाद में</string>
+    <string name="text_accept">स्वीकार करना</string>
+    <string name="text_permissions">अनुमतियाँ</string>
+    <string name="text_session_in_other_device">एक और डिवाइस पर सक्रिय सत्र!</string>
+
+    <string name="app_global_name">पानी पी लो</string>
+    <string name="welcome_guide_01">अपनी प्राथमिकताओं के अनुसार समायोजित करने के लिए मार्गदर्शन करेगा</string>
+    <string name="text_welcome">स्वागत</string>
+    <string name="welcome_guide_02">अब आपका वजन क्या है</string>
+    <string name="welcome_guide_03">मैन्युअल रूप से लक्ष्य निर्धारित करें</string>
+    <string name="welcome_guide_04">हम आपके लिए एक प्रारंभिक लक्ष्य की गणना करेंगे</string>
+    <string name="welcome_guide_05">1000 मिलीलीटर</string>
+    <string name="welcome_guide_06">गणना की गई राशि का उपयोग करें</string>
+    <string name="welcome_guide_07">मैन्युअल रूप से लक्ष्य निर्धारित करें</string>
+    <string name="welcome_guide_08">क्या आप इसे अपने दैनिक लक्ष्य के रूप में स्थापित करना चाहते हैं?</string>
+    <string name="welcome_guide_09">चिंता न करें, आप बाद में ऐप में इन मूल्यों को बदल सकते हैं</string>
+    <string name="welcome_guide_10">आपकी दैनिक गणना की गई खपत है</string>
+    <string name="welcome_guide_11">आप प्रति दिन कितना पहुंचना चाहते हैं?</string>
+    <string name="welcome_guide_12">आप कितनी बार याद किया जाना चाहते हैं?</string>
+    <string name="welcome_guide_13">जब आप पानी पीते हैं, तो हम आपको फिर से सूचित करने से पहले थोड़ी देर प्रतीक्षा करेंगे।</string>
+    <string name="welcome_guide_14">सुबह का समय क्या आप पानी पीना शुरू करना चाहते हैं?</string>
+    <string name="welcome_guide_15">दोपहर 1:00 बजे से 12:00 बजे के बीच।</string>
+    <string name="welcome_guide_16">रात के किस समय आप सूचनाएं प्राप्त करना बंद करना चाहते हैं? (के बारे में)</string>
+    <string name="welcome_guide_17">शाम 6:00 से 11:59 बजे के बीच</string>
+    <string name="welcome_guide_18">जब आपके पास अधिसूचना होती है तो आप कुछ समय के लिए कूदने और आवेदन दर्ज किए बिना पूर्वनिर्धारित मात्रा में पानी पीने के बीच फैसला कर सकते हैं</string>
+    <string name="text_drink">पीने के लिए</string>
+    <string name="text_skip">छलांग</string>
+    <string name="welcome_guide_19">पानी पीने का समय! आज आप 970ml पहनते हैं। आपका लक्ष्य 1 लीटर है।</string>
+    <string name="welcome_guide_20">हम आपको सूचनाएँ भेजेंगे ताकि आप पानी पीना याद रखें</string>
+    <string name="text_notifications">सूचनाएं</string>
+    <string name="welcome_guide_21">जब आप एक अधिसूचना छोड़ते हैं तो आप कितना समय चाहते हैं?</string>
+    <string name="welcome_guide_22">चिंता न करें, आप बाद में ऐप में इन मूल्यों को बदल सकते हैं</string>
+    <string name="welcome_guide_23">जब आप एक अधिसूचना में पेय बटन दबाते हैं तो आप कितना पंजीकरण करना चाहते हैं?</string>
+    <string name="welcome_guide_24">चिंता न करें, आप बाद में ऐप में इन मूल्यों को बदल सकते हैं</string>
+    <string name="text_start">प्रारंभ</string>
+    <string name="welcome_guide_25">आपको हर 45 मिनट में सूचित किया जाएगा ताकि आप 1.5 लीटर पानी (1500 मिलीलीटर) के अपने दैनिक लक्ष्य को प्राप्त करें</string>
+    <string name="welcome_guide_26">हम तैयार हैं!</string>
+    <string name="text_enter_a_valid_amout">एक वैध राशि दर्ज करें</string>
+    <string name="text_enter_an_amount_greater_lbs">10 पाउंड से अधिक राशि दर्ज करें</string>
+    <string name="text_enter_an_amount_greater_kg">5 किलोग्राम से अधिक राशि दर्ज करें</string>
+    <string name="text_liters">लीटर</string>
+    <string name="text_mililiters">मिलीलीटर</string>
+    <string name="text_something_isnt_correct">रिटर्न और पुनर्गणना, कुछ सही नहीं है</string>
+    <string name="text_interval_too_short">अंतराल बहुत छोटा है</string>
+    <string name="text_interval_too_big">अंतराल बहुत बड़ा है</string>
+    <string name="text_out_of_range_hour">चयनित समय सीमा में नहीं है</string>
+    <string name="text_welcome_stats_01">आपको हर सूचना दी जाएगी</string>
+    <string name="text_welcome_stats_02">ताकि आप अपने दैनिक लक्ष्य को प्राप्त कर सकें</string>
+    <string name="text_welcome_stats_03">पानी की</string>
+
+    <string name="water_drink_01">आप अपने पानी के समय में 27 सेकंड तक आगे बढ़ चुके हैं</string>
+    <string name="water_drink_02">पानी आपकी त्वचा को मॉइस्चराइज करने में मदद करता है</string>
+    <string name="water_drink_03">अगले 55 मिनट 30 सेकंड में</string>
+    <string name="text_enable_alarm">अलार्म को सक्रिय करें</string>
+    <string name="text_disable_alarm">अलार्म को निष्क्रिय करें</string>
+    <string name="text_drink_water">पानी पी लो</string>
+    <string name="water_drink_04">आप 1000l के 150 मिलीलीटर ले</string>
+    <string name="dialog_text_reactivate_alarm">हमने आपका अंत समय पहले ही पास कर दिया है। क्या आप अलार्म प्राप्त करना जारी रखना चाहते हैं?</string>
+    <string name="dialog_exit">नहीं, छोड़ो</string>
+    <string name="dialog_extend_hours">हाँ, समय बढ़ाओ</string>
+    <string name="text_drinking_over">पीरियड ख़त्म!</string>
+    <string name="text_share_content">हैलो! पानी पीने के लिए याद रखने के लिए इस ऐप को आज़माएँ, मैं इसकी सलाह देता हूँ:</string>
+    <string name="text_share_subject">चलो पानी पीते हैं!</string>
+    <string name="text_share_title">दोस्तों के साथ शेयर ऐप!</string>
+    <string name="text_your_goal_01">आज आपका लक्ष्य है</string>
+    <string name="text_your_goal_02">पानी की</string>
+    <string name="text_remember_each">प्रत्येक को याद रखें:</string>
+    <string name="text_timepicker_title">आप कितनी बार सूचनाएं प्राप्त करना चाहते हैं?</string>
+    <string name="text_your_record_so_far">यह अब तक का आपका दिन का रिकॉर्ड है</string>
+    <string name="text_goal_reached_01">बधाई! आप आज अपने लक्ष्य तक पहुँच चुके हैं!</string>
+    <string name="text_goal_reached_02">अच्छा हुआ! आप आज अपने लक्ष्य तक पहुँच चुके हैं!</string>
+    <string name="text_hurra">ब्रावो!</string>
+    <string name="text_progress_01">प्रगति: आप ले</string>
+    <string name="text_progress_02">आपका लक्ष्य है</string>
+    <string name="text_stats_01">आप आगे आए हैं</string>
+    <string name="text_stats_02">अपने समय पर पानी पीने के लिए</string>
+    <string name="text_drink_water_now">अब पानी पी लो</string>
+    <string name="dialog_huawei_title">Huawei</string>
+    <string name="dialog_huawei_message">सूचनाएं प्राप्त करने के लिए ऐप को संरक्षित ऐप्स की सूची में जोड़ना आवश्यक है</string>
+    <string name="text_proceed">बढ़ना</string>
+    <string name="text_its_done">हो गया</string>
+    <string name="text_of">की</string>
+    <string name="text_report_title">के रिकॉर्ड</string>
+    <string name="text_report_loading">रिकॉर्ड लोड कर रहा है ...</string>
+    <string name="text_report_no_records">आपके पास अभी तक रिकॉर्ड नहीं हैं!</string>
+    <string name="text_record_yesterday">कल का रिकॉर्ड देखें</string>
+    <string name="text_record_today">आज के रिकॉर्ड देखें</string>
+    <string name="text_custom_milliliters">मिलीलीटर जोड़ें</string>
+    <string name="text_amount_empty">राशि खाली है</string>
+    <string name="text_amount_greater_than">मात्रा 10 से अधिक होनी चाहिए</string>
+    <string name="text_todays_records">आज के रिकॉर्ड</string>
+    <string name="text_your_record_yesterday">ये कल के रिकॉर्ड हैं</string>
+
+    <string name="text_first_drink_01">किसी भी समय पानी पीने के लिए तैयार!</string>
+    <string name="text_first_drink_02">चलो शुरू करते हैं ... अब एक गिलास पानी लें, बटन दबाएं और फिर आपके द्वारा ली गई राशि का चयन करें। फिर अपनी गतिविधियों के साथ जारी रखें जो हम आपको बताएंगे कि आपको कब पीना चाहिए</string>
+    <string name="text_break_hours_01">आराम के घंटे! सूचनाएं अक्षम हैं</string>
+    <string name="text_break_hours_02">अलार्म बंद है ... अब एक गिलास पानी लें, बटन दबाएं और फिर उस राशि का चयन करें जिसे आप निगलना चाहते हैं। यदि आप अभी भी अलार्म प्राप्त करना चाहते हैं तो आप सेटिंग में अपना अंतिम समय बढ़ा सकते हैं</string>
+    <string name="text_vol_unit_mililiters">मिलीलीटर</string>
+    <string name="text_vol_unit_liters">एल</string>
+    <string name="text_you_have">तुम ले जाओ</string>
+    <string name="text_well_done">अच्छा हुआ!</string>
+    <string name="text_timepicker_title_start_hours">प्रारंभ समय का चयन करें (दोपहर 01:00 बजे से 12:00 बजे के बीच)</string>
+    <string name="text_timepicker_title_end_hours">समाप्त करने के लिए समय का चयन करें (06:00 बजे से 11:59 बजे के बीच)</string>
+    <string name="text_next_in">अगले में</string>
+    <string name="text_i_drink">मैंने पहले ही पानी पी लिया!</string>
+
+
+    <string name="text_start_title">समय शुरू करें</string>
+    <string name="text_start_at">हम शुरू करते हैं</string>
+    <string name="text_end_title">समाप्त करने के लिए अनुमानित समय</string>
+    <string name="text_end_at">हम निकट समाप्त करते हैं</string>
+
+    <string name="text_news_title">नई</string>
+    <string name="text_next">निम्नलिखित</string>
+    <string name="text_see_content">सामग्री देखें</string>
+
+    <string name="text_our_goal">हमारा लक्ष्य</string>
+    <string name="text_change">परिवर्तन</string>
+    <string name="text_reminder_title">हर 2 घंटे 48 मिनट</string>
+
+    <string name="text_drink_amount">पीने पर राशि:</string>
+    <string name="text_skip_time">के दौरान कूद:</string>
+    <string name="text_notification_title">अधिसूचना विन्यास</string>
+
+    <string name="text_cancel_drink">रद्द, गलत अलार्म</string>
+    <string name="text_how_much_you_drink">तुमने कितना पी लिया है?</string>
+
+    <string name="text_lets_rate">चलो दर</string>
+    <string name="text_rate_content">टिप्पणी करने के लिए कुछ समय लें और एप्लिकेशन के इस नए संस्करण को रेट करें। एक अच्छी रेटिंग के साथ आप सुधार पर काम जारी रखने में हमारी बहुत मदद करते हैं</string>
+    <string name="text_rate_title">ऐप के इस नए संस्करण के बारे में आप क्या सोचते हैं?</string>
+
+    <string name="text_notification_case_02">अधिसूचना के बाद से पंजीकृत है</string>
+    <string name="text_notification_case_03">आपने पानी नहीं पिया आपने अधिसूचना से प्रवेश किया</string>
+    <string name="text_notification_case_04">अधिसूचना से छोड़ दिया गया</string>
+    <string name="text_notification_case_05">अधिसूचना को बंद कर दिया गया था</string>
+    <string name="text_notification_case_06">आप बिना पिए ही चले गए</string>
+
+    <string name="text_congratulations">बधाई!</string>
+    <string name="text_congratulations_01">आप पहुँच गए</string>
+    <string name="text_congratulations_02">इस दिन के दौरान पानी। आपने अपना लक्ष्य प्राप्त कर लिया है</string>
+    <string name="text_congratulations_03">और आपने अपने शरीर को हाइड्रेटेड रखा है। इसे बनाए रखो!</string>
+    <string name="text_congratulations_04">बधाई! आप आज के लक्ष्य तक पहुँच गए</string>
+
+    <string name="coutdown_done_text_01">पानी जीवन शक्ति और स्वास्थ्य प्रदान करता है, शारीरिक गतिविधियों को करने और प्रेरित रहने के लिए आवश्यक है।</string>
+    <string name="coutdown_done_text_02">एक अच्छा हाइड्रेशन हमारे शरीर के कामकाज में सुधार करता है।</string>
+    <string name="coutdown_done_text_03">अगर आप इसे हाइड्रेटेड रखेंगे तो आपका शरीर काफी बेहतर महसूस करेगा।</string>
+    <string name="coutdown_done_text_04">पानी का सेवन तब होना चाहिए जब आपका शरीर इसके लिए कहता है, अगर आपको प्यास नहीं है तो आपको पानी नहीं पीना चाहिए। आपको सही संतुलन खोजना होगा।</string>
+    <string name="coutdown_done_text_05">पानी की एक नियमित खपत गुर्दे के बेहतर कामकाज में योगदान देती है।</string>
+    <string name="coutdown_done_text_06">याद रखें कि आपका एक लक्ष्य है जिसे आप पूरा करना चाहते हैं</string>
+    <string name="coutdown_done_text_07">यह मुश्किल नहीं है, चलो एक गिलास पानी, एक बार में एक कदम ...</string>
+    <string name="coutdown_done_text_08">यदि आप एक दिन में लगभग 10 गिलास ठंडा पानी पीते हैं, तो आप प्रति सप्ताह अतिरिक्त 490 कैलोरी जला सकते हैं</string>
+    <string name="coutdown_done_text_09">शरीर के विषहरण, बेहतर मांसपेशी टोन और स्वस्थ त्वचा नियमित रूप से h2o को निगलना के कुछ लाभ हैं</string>
+    <string name="coutdown_done_text_10">अन्य तरल पदार्थों से पहले भोजन के साथ पानी पीना बेहतर होता है</string>
+    <string name="coutdown_done_text_11">कार्यालय, स्कूल आदि में पानी की एक छोटी बोतल लाएं। इसलिए हाइड्रेटेड रहना न भूलें</string>
+    <string name="coutdown_done_text_12">यदि आप चाहते हैं .. आप इसे स्वाद देने के लिए पानी में नींबू मिला सकते हैं, यह अधिक नियमित रूप से पीने में मदद करता है</string>
+    <string name="coutdown_done_text_13">मानसिक रूप से स्वस्थ रहें और पानी न पीने के बहाने न निकालें, याद रखें कि यह शरीर में एक आवश्यक तत्व है और वजन कम करने की प्रक्रिया में है। 3 दिनों तक नियमित रूप से लेने के बाद यह एक आदत बन जाती है ... या तो वे कहते हैं ...</string>
+    <string name="coutdown_done_text_default">क्या तुम प्यासे हो?</string>
+    <string name="title_start_01">सुप्रभात!</string>
+    <string name="title_start_02">शुभ दिन!</string>
+    <string name="title_start_03">शुरू करने का समय</string>
+    <string name="title_start_04">नया दिन शुरू होता है</string>
+    <string name="title_start_05">क्या आपको नींद अच्छी आई?</string>
+    <string name="title_start_06">समय शुरू करो!</string>
+    <string name="title_start_07">समय शुरू करें!</string>
+    <string name="title_start_default">पानी पीने का समय</string>
+    <string name="title_end_01">समाप्त करने का समय</string>
+    <string name="title_end_02">हम खत्म करते हैं ... आज के लिए</string>
+    <string name="title_end_03">हमारे पास दिन का सारांश है</string>
+    <string name="title_end_default">दिन की रिपोर्ट!</string>
+    <string name="title_drink_time_01">घंटा आ गया</string>
+    <string name="title_drink_time_03">क्या तुम प्यासे हो?</string>
+    <string name="title_drink_time_04">स्पर्श करें</string>
+    <string name="title_drink_time_default">पानी पी लो</string>
+    <string name="text_start_01">चलो आज के लक्ष्य तक पहुँचने के लिए शुरू करते हैं!</string>
+    <string name="text_start_02">चलो हमारे लक्ष्य के साथ शुरू करते हैं</string>
+    <string name="text_start_03">आज के लिए पानी की!</string>
+    <string name="text_start_04">पानी पीना याद रखें जब आपको वास्तव में प्यास लगती है</string>
+    <string name="text_start_05">अपने आलस्य को खोएं और अपने दिन को हाइड्रेट करना शुरू करें!</string>
+    <string name="text_start_06">अपना पहला गिलास पानी पीने के लिए तैयार हैं?</string>
+    <string name="text_start_default">दाहिने पैर के साथ उठने का समय</string>
+    <string name="text_end_01">तुमने भस्म कर दिया</string>
+    <string name="text_end_02">। अधिक विवरण देखने के लिए दर्ज करें</string>
+    <string name="text_end_03">तुमने ले लिया</string>
+    <string name="text_end_04">इस दिन के दौरान पानी</string>
+    <string name="text_end_default">क्या आप जानना चाहते हैं कि आज आपने कितने घंटे पानी पीया? दर्ज करें और अपने सारांश की समीक्षा करें</string>
+    <string name="text_drink_time_01">घंटा h2o आ गया</string>
+    <string name="text_drink_time_02">अरे, क्या आप पहले से ही प्यासे हैं?</string>
+    <string name="text_drink_time_03">स्पर्श करें</string>
+    <string name="text_drink_time_default">प्यास लगने पर ही पानी पिएं</string>
+    <string name="big_text_start_01">यह जल्दी, शांति से पानी पी लो। निगलने में आने वाली समस्याओं से बचें, आपका शरीर अभी शुरू कर रहा है</string>
+    <string name="big_text_start_02">हम आपको प्यास लगने पर पानी पीने के लिए याद दिलाते हैं, यदि आप अभी भी बिस्तर से बाहर नहीं निकलना चाहते हैं तो आप थोड़ा इंतजार कर सकते हैं</string>
+    <string name="big_text_start_03">मुझे आशा है कि आप अच्छी तरह से सो चुके हैं! मैं आपको विश्वास दिलाता हूं कि अब मॉइस्चराइज़ करना आपको दिन शुरू करने के लिए ऊर्जा लेने में मदद करेगा</string>
+    <string name="big_text_start_04">हो सकता है कि आप बिस्तर में सहज हों ... या हो सकता है कि आप काम करने के तरीके पर हों ... जब आप कर सकते हैं तो पानी पी लें, यदि आप अभी तैयार नहीं हैं तो आप अपना पहला गिलास छोड़ सकते हैं</string>
+    <string name="big_text_start_05">खाली पेट पर 1 या 2 गिलास पानी पीना विषाक्त पदार्थों और उन सभी पदार्थों के उन्मूलन के लिए आदर्श है, जिनकी हमारे शरीर को आवश्यकता नहीं है।</string>
+    <string name="big_text_start_06">एक गिलास पानी या एक खाली पेट पर शराब, तंबाकू, प्रदूषण, जंक फूड जैसे पदार्थों के हानिकारक प्रभावों को कम करने में मदद करता है।</string>
+    <string name="big_text_start_07">हे, कब्ज से लड़ने और रोकने के लिए आप सुबह में h2o से शुरू कर सकते हैं क्योंकि यह आंतों की गति को उत्तेजित करता है, लेकिन अगर यह पहला गिलास है तो इसे शांति से करें</string>
+    <string name="big_text_start_default">रात के दौरान शरीर कोशिकाओं की मरम्मत करने और आंतरिक सफाई करने का काम करता है, इस कारण से, खाली पेट एक गिलास पानी पीना बहुत अच्छा होता है क्योंकि इससे शरीर को उन सभी अपशिष्टों को बाहर निकालने के लिए एक धक्का मिलेगा जिसकी उसे जरूरत नहीं है मूत्र</string>
+    <string name="big_text_end_01">क्या आपने उपयोग किया है</string>
+    <string name="big_text_end_02">याद रखें कि इसे रखना महत्वपूर्ण है, इस अधिसूचना पर क्लिक करके अपनी गतिविधि पर एक नज़र रखना याद रखें</string>
+    <string name="big_text_end_03">अच्छा हुआ! सूचनाएं अब आपके फ़ोन पर दिखाई नहीं देंगी, यह अगले प्रारंभ समय तक होगी</string>
+    <string name="big_text_end_04">आज आपके पास हमारा सारांश है! अंदर जाओ और देखो कि यह आज कैसा था</string>
+    <string name="big_text_end_default_01">आराम के घंटे अब शुरू होते हैं और आप निगलना चाहते हैं</string>
+    <string name="big_text_end_default_02">इस क्षण तक। विवरण देखने के लिए यह अधिसूचना दर्ज करें</string>
+    <string name="big_text_end_goal_reached_01">बधाई! आप अपना दैनिक लक्ष्य पूरा करने में सफल रहे</string>
+    <string name="big_text_end_goal_reached_02">आज पानी का अंतर्ग्रहण हुआ</string>
+    <string name="big_text_end_goal_reached_03">उत्कृष्ट! साथ</string>
+    <string name="big_text_end_goal_reached_04">आप स्थापित ब्रांड को पारित करने में कामयाब रहे। आपका दिन शुभ हो!</string>
+    <string name="big_text_end_goal_reached_05">आप लक्ष्य तक पहुँच चुके हैं! आपने इसे किया, आज जाकर अपनी गतिविधि को देखें। इसे बनाए रखो!</string>
+    <string name="big_text_end_goal_reached_default_01">तुमने कर दिया! वे कर रहे हैं</string>
+    <string name="big_text_end_goal_reached_default_02">आपके शरीर ने कई बधाई को ठीक से चलाने के लिए जोड़ा है! अपनी गतिविधि देखने के लिए यह सूचना दर्ज करें</string>
+    <string name="big_text_drink_time_01">क्या आप जानते हैं कि पानी पीने से थकान दूर होती है। पानी का उपयोग शरीर द्वारा विषाक्त पदार्थों और अपशिष्ट उत्पादों को खत्म करने के लिए किया जाता है जिनकी आवश्यकता नहीं है। जब शरीर में पानी कम होता है, तो हृदय को सभी कोशिकाओं और अन्य प्रमुख अंगों को ऑक्सीजन युक्त रक्त पंप करने के लिए अधिक मेहनत करनी पड़ती है और इससे थकान हो सकती है। चलो एक गिलास पानी के लिए चलते हैं!</string>
+    <string name="big_text_drink_time_02">स्वस्थ त्वचा पानी त्वचा के ऊतकों को फिर से भरने में मदद करता है, साथ ही इसकी लोच को बढ़ाता है। जब शरीर को पर्याप्त पानी मिलेगा, तो त्वचा हाइड्रेट हो जाएगी। यह भी निशान, मुँहासे, झुर्रियों और उम्र बढ़ने के अन्य लक्षणों के साथ मदद करता है</string>
+    <string name="big_text_drink_time_03">कुछ अध्ययनों से संकेत मिलता है कि पानी का सेवन मूत्राशय और पेट के कैंसर के जोखिम को भी कम करता है। पानी विभिन्न प्रकार के कैंसर के जोखिम को कम करके कैंसर पैदा करने वाले एजेंटों को नष्ट करता है।</string>
+    <string name="big_text_drink_time_04">सांसों की बदबू एक स्पष्ट संकेत है कि शरीर को अधिक पानी की आवश्यकता होती है। लार आपके मुंह को बैक्टीरिया से छुटकारा पाने और जीभ को हाइड्रेटेड रखने में मदद करती है। इसलिए, जब भी हमारी सांस खराब होती है, तो सबसे पहले हमें बहुत सारा पानी पीना चाहिए</string>
+    <string name="big_text_drink_time_05">h2o वसा से उत्पादों को खत्म करने में मदद करता है। जब हम अपना पेट पीते हैं तो यह हमें भर देता है, जिससे हमें अपनी भूख थोड़ी कम हो जाती है। पानी में कोई कैलोरी, वसा, कार्बोहाइड्रेट या चीनी नहीं होती है और यह उच्च कैलोरी पेय के लिए एक महान प्रतिस्थापन है</string>
+    <string name="big_text_drink_time_06">अंतर्ग्रहण पानी हमारे शरीर की प्राकृतिक सुरक्षा को बढ़ाता है और हमारी मांसपेशियों और जोड़ों पर चिकनाई प्रभाव डालता है, क्योंकि यह उनकी रक्षा करता है और उन्हें ठीक से काम करने में मदद करता है। यह हमारे स्नायुबंधन और मांसपेशियों की ताकत में सुधार करता है।</string>
+    <string name="big_text_drink_time_07">यदि आप अब नहीं पीना चाहते हैं तो मैं आपको कुछ मिनटों में याद दिलाऊंगा ...</string>
+    <string name="big_text_drink_time_default">सांसों की बदबू एक स्पष्ट संकेत है कि शरीर को अधिक पानी की आवश्यकता होती है। लार आपके मुंह को बैक्टीरिया से छुटकारा पाने और जीभ को हाइड्रेटेड रखने में मदद करती है। इसलिए, जब भी हमारी सांस खराब होती है, तो सबसे पहले हमें बहुत सारा पानी पीना चाहिए</string>
+</resources>

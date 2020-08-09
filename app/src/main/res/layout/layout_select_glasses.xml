@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="7dp"
+    tools:ignore="ContentDescription">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView01"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="7dp"
+            app:srcCompat="@drawable/icon_glass_of_water_01_small"
+            />
+
+        <TextView
+            android:id="@+id/textViewSGTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView01"
+            android:layout_alignBottom="@+id/imageView01"
+            android:layout_marginRight="7dp"
+            android:layout_toRightOf="@+id/imageView01"
+            android:gravity="right|center_horizontal"
+            android:text="@string/text_how_much_you_drink"
+            android:textColor="@color/grey"
+            android:textStyle="bold"
+            app:autoSizeTextType="uniform"
+            android:layout_toEndOf="@+id/imageView01"
+            android:layout_marginEnd="7dp" />
+
+        <GridView
+            android:id="@+id/gridViewSG"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_above="@+id/layoutInputContainer"
+            android:layout_below="@+id/textViewSGTitle"
+            android:layout_margin="7dp"
+            android:clipToPadding="false"
+            android:columnWidth="120dp"
+            android:gravity="center_horizontal"
+            android:horizontalSpacing="7dp"
+            android:numColumns="auto_fit"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:scrollbars="none"
+            android:verticalSpacing="20dp"
+            tools:listitem="@layout/item_glass" />
+
+        <Button
+            android:id="@+id/buttonSGCancel"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/button_background_03_selector"
+            android:text="@string/text_cancel_drink"
+            android:textColor="@android:color/white" />
+
+        <LinearLayout
+            android:id="@+id/layoutInputContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/buttonSGCancel"
+            android:layout_margin="7dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editTextCustomAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:gravity="center_horizontal"
+                android:inputType="number|numberDecimal"
+                android:maxLength="5"
+                android:text="777" />
+
+            <Button
+                android:id="@+id/buttonDrinkCustomAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_background_03_selector"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/text_custom_milliliters"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

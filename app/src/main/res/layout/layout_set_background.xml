@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/blue_water"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="7dp"
+    tools:ignore="ContentDescription">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/radioGroupTextColorOptions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="17dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radioButtonWhite"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp"
+                android:checked="true"
+                android:button="@drawable/button_circle_background_01_selector"
+                android:background="@drawable/radiobutton_selector_white"/>
+
+            <RadioButton
+                android:id="@+id/radioButtonBlack"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp"
+                android:button="@drawable/button_circle_background_01_selector"
+                android:background="@drawable/radiobutton_selector_black" />
+
+            <RadioButton
+                android:id="@+id/radioButtonYellow"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp"
+                android:button="@drawable/button_circle_background_01_selector"
+                android:background="@drawable/radiobutton_selector_yellow" />
+
+            <RadioButton
+                android:id="@+id/radioButtonDarkPurple"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp"
+                android:button="@drawable/button_circle_background_01_selector"
+                android:background="@drawable/radiobutton_selector_dark_purple" />
+
+
+        </RadioGroup>
+
+        <LinearLayout
+            android:id="@+id/backgroundOptions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/radioGroupTextColorOptions"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="17dp"
+            android:padding="7dp">
+
+            <ImageView
+                android:id="@+id/option_01"
+                android:layout_width="77dp"
+                android:layout_height="77dp"
+                app:srcCompat="@color/white"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp" />
+
+            <ImageView
+                android:id="@+id/option_02"
+                android:layout_width="77dp"
+                android:layout_height="77dp"
+                app:srcCompat="@drawable/custom_background"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp" />
+
+            <ImageButton
+                android:id="@+id/option_03"
+                android:layout_width="77dp"
+                android:layout_height="77dp"
+                android:background="@drawable/button_circle_background_01_selector"
+                android:scaleType="fitCenter"
+                android:padding="10dp"
+                app:srcCompat="@drawable/ic_gallery"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonSBCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_below="@id/backgroundOptions"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="17dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/button_background_03_selector"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="@string/text_cancel_drink"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

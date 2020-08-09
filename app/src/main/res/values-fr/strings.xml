@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App boire de l\'eau</string>
+    <string name="channel_description">Notifications de boire de l\'eau</string>
+
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Le mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Le dimanche</string>
+    <string name="january">Janvier</string>
+    <string name="fabruary">Février</string>
+    <string name="march">Mars</string>
+    <string name="april">Avril</string>
+    <string name="may">Mai</string>
+    <string name="june">Juin</string>
+    <string name="july">Juillet</string>
+    <string name="august">Août</string>
+    <string name="september">Septembre</string>
+    <string name="october">Octobre</string>
+    <string name="november">Novembre</string>
+    <string name="december">Décembre</string>
+    <string name="text_hour">heure</string>
+    <string name="text_minute">minute</string>
+    <string name="text_second">deuxième</string>
+    <string name="text_hours">Les heures</string>
+    <string name="text_minutes">minutes</string>
+    <string name="text_seconds">secondes</string>
+    <string name="validate_email_empty">Entrez une adresse email!</string>
+    <string name="validate_email_invalid">Adresse invalide</string>
+    <string name="validate_password_empty">Entrez un mot de passe!</string>
+    <string name="validate_password_too_short">Mot de passe très court!</string>
+    <string name="validate_phone_empty">Numéro vide</string>
+    <string name="validate_phone_incomplete">Numéro incomplet</string>
+    <string name="validate_phone_too_long">Nombre trop important</string>
+    <string name="validate_phone_only_numbers">L\'entrée ne doit pas contenir uniquement des lettres</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">Politique de confidentialité</string>
+    <string name="privacy_policy_alert">Vous devez accepter les stratégies pour utiliser l\'application</string>
+    <string name="privacy_policy_accept">J\'ai lu et j\'accepte les politiques de confidentialité</string>
+    <string name="text_continue">continuer</string>
+
+    <string name="text_ouch">Ouch!</string>
+    <string name="text_ss_validating_config">Validation des paramètres ...</string>
+    <string name="text_ss_getting_language">Obtenir la langue ...</string>
+    <string name="text_ss_showing_pp">Affichage de nos politiques de confidentialité</string>
+    <string name="ss_getting_content">Obtenir du contenu ...</string>
+    <string name="ss_not_connected">Vous n\'êtes pas connecté à Internet ... Vérifiez votre connexion</string>
+    <string name="ss_getting_info">Obtenir des informations de l\'application ...</string>
+    <string name="ss_checking_news">Vérification des nouvelles ...</string>
+    <string name="ss_verifying_user">Vérification de l\'utilisateur ...</string>
+    <string name="ss_loading_content">Chargement du contenu ...</string>
+    <string name="permission_request_01">L\'application nécessite l\'autorisation de certains permis pour un fonctionnement correct.</string>
+    <string name="permission_request_02">L\'application nécessite l\'autorisation de certaines autorisations pour un fonctionnement correct. \n Pour plus d\'informations à propos de chacune d\'elles, consultez notre politique de confidentialité</string>
+    <string name="ss_confirm_permissions_1">Confirmation des autorisations initiales de l\'application ...</string>
+    <string name="ss_confirm_permissions_2">Confirmation des autorisations d\'application ...</string>
+    <string name="ss_confirm_permissions_3">Des autorisations sont nécessaires pour démarrer l\'application</string>
+    <string name="ss_starting">À partir ...</string>
+
+    <string name="permission_system_alert_window">Vous devez avoir l\'autorisation pour afficher un widget sur votre écran lorsque vous atteignez votre objectif quotidien en matière d\'eau.</string>
+    <string name="permission_read_external">Une autorisation de lecture est nécessaire pour obtenir les informations créées par l\'application par rapport à l\'utilisateur actuel.</string>
+    <string name="permission_write_external">Une autorisation d’écriture est nécessaire pour stocker localement les informations importantes et rationaliser le chargement des services.</string>
+
+    <string name="permission_grant">Permettre</string>
+
+    <string name="permission_system_alert_windows">Nous avons besoin de l\'autorisation pour afficher un widget sur l\'écran de votre téléphone lorsque vous atteignez votre objectif.</string>
+    <string name="permission_system_alert_windows_explanation">Obligatoire, par exemple: Afficher le widget Félicitations</string>
+    <string name="permission_read_external_title">Nous avons besoin d\'autorisations de lecture!</string>
+    <string name="permission_read_external_explanation">Nécessaire, par exemple: récupérer des enregistrements, des temps, etc.</string>
+    <string name="permission_write_external_title">Nous avons besoin des autorisations d\'écriture!</string>
+    <string name="permission_write_external_explanation">Nécessaire, par exemple: pour enregistrer votre session sur le téléphone.</string>
+
+
+    <string name="button_login">Commencer la session</string>
+    <string name="text_sign_up">S\'inscrire</string>
+    <string name="text_return">Retour</string>
+    <string name="text_password">Mot de passe</string>
+    <string name="text_email">Courrier électronique</string>
+    <string name="text_forgot_password">Mot de passe oublié?</string>
+    <string name="text_join">Rejoindre</string>
+    <string name="text_send_password_instructions">Instructions d\'envoi</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>Livres</item>
+        <item>Kilogrammes</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>Millilitres</item>
+        <item>Litres</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5min</item>
+        <item>10min</item>
+        <item>15min</item>
+        <item>20min</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10 ml</item>
+        <item>50 ml</item>
+        <item>100 ml</item>
+        <item>150 ml</item>
+    </string-array>
+
+
+    <string name="exit_press_again">Appuyez à nouveau pour quitter</string>
+    <string name="message_app_disabled">Actuellement, l\'application est désactivée, essayez à nouveau dans quelques instants ...</string>
+    <string name="message_update_new_version">Une nouvelle version est disponible. Téléchargez-le maintenant!</string>
+    <string name="text_download">TELECHARGER</string>
+    <string name="text_exit">sortir</string>
+    <string name="text_later">Plus tard</string>
+    <string name="text_accept">Accepter</string>
+    <string name="text_permissions">Les permissions</string>
+    <string name="text_session_in_other_device">Session active sur un autre appareil!</string>
+
+    <string name="app_global_name">Eau de boisson</string>
+    <string name="welcome_guide_01">Il vous guidera pour ajuster en fonction de vos préférences</string>
+    <string name="text_welcome">Bienvenue</string>
+    <string name="welcome_guide_02">Quel est ton poids maintenant?</string>
+    <string name="welcome_guide_03">Régler META manuellement</string>
+    <string name="welcome_guide_04">Nous allons calculer un objectif initial pour vous</string>
+    <string name="welcome_guide_05">1000 millilitres</string>
+    <string name="welcome_guide_06">Utiliser le montant calculé</string>
+    <string name="welcome_guide_07">Définir META manuellement</string>
+    <string name="welcome_guide_08">Voulez-vous établir cela comme votre objectif quotidien?</string>
+    <string name="welcome_guide_09">Ne vous inquiétez pas, vous pouvez modifier ces valeurs ultérieurement dans l\'application.</string>
+    <string name="welcome_guide_10">Votre consommation calculée par jour est</string>
+    <string name="welcome_guide_11">Combien voulez-vous atteindre par jour?</string>
+    <string name="welcome_guide_12">À quelle fréquence voulez-vous qu\'on se souvienne de vous?</string>
+    <string name="welcome_guide_13">Lorsque vous buvez de l\'eau, nous attendrons un moment avant de vous en informer à nouveau.</string>
+    <string name="welcome_guide_14">À quelle heure du matin voulez-vous commencer à boire de l\'eau?</string>
+    <string name="welcome_guide_15">Entre 13h00 et 12h00</string>
+    <string name="welcome_guide_16">À quelle heure de la nuit voulez-vous arrêter de recevoir des notifications? (environ)</string>
+    <string name="welcome_guide_17">Entre 18h00 et 23h59</string>
+    <string name="welcome_guide_18">Lorsque vous avez la notification, vous pouvez choisir de skier pendant un certain temps et de boire une quantité d\'eau prédéfinie sans avoir à entrer dans l\'application.</string>
+    <string name="text_drink">BOIRE</string>
+    <string name="text_skip">SAUTER</string>
+    <string name="welcome_guide_19">Temps de boire de l\'eau! Vous portez 970 ml aujourd\'hui. Votre objectif est 1 litre.</string>
+    <string name="welcome_guide_20">Nous vous enverrons des notifications pour que vous vous rappeliez de boire de l\'eau</string>
+    <string name="text_notifications">Les notifications</string>
+    <string name="welcome_guide_21">Combien de temps voulez-vous quand vous omettez une notification?</string>
+    <string name="welcome_guide_22">Ne vous inquiétez pas, vous pouvez modifier ces valeurs ultérieurement dans l\'application.</string>
+    <string name="welcome_guide_23">Combien voulez-vous enregistrer lorsque vous appuyez sur le bouton DRINK dans une notification?</string>
+    <string name="welcome_guide_24">Ne vous inquiétez pas, vous pouvez modifier ces valeurs ultérieurement dans l\'application.</string>
+    <string name="text_start">Début</string>
+    <string name="welcome_guide_25">Vous serez averti toutes les 45 minutes pour atteindre votre objectif quotidien de 1,5 litre d\'eau (1500 millilitres).</string>
+    <string name="welcome_guide_26">Nous sommes prêts!</string>
+    <string name="text_enter_a_valid_amout">Entrez un montant valide</string>
+    <string name="text_enter_an_amount_greater_lbs">Entrez un montant supérieur à 10 livres</string>
+    <string name="text_enter_an_amount_greater_kg">Entrez une quantité supérieure à 5 kilogrammes</string>
+    <string name="text_liters">litres</string>
+    <string name="text_mililiters">millilitres</string>
+    <string name="text_something_isnt_correct">Retourner et recalculer, quelque chose ne va pas</string>
+    <string name="text_interval_too_short">L\'intervalle est trop court</string>
+    <string name="text_interval_too_big">L\'intervalle est trop grand</string>
+    <string name="text_out_of_range_hour">L\'heure sélectionnée n\'est pas dans la plage</string>
+    <string name="text_welcome_stats_01">Vous serez informé chaque</string>
+    <string name="text_welcome_stats_02">afin que vous atteigniez votre objectif quotidien de</string>
+    <string name="text_welcome_stats_03">d\'eau</string>
+
+    <string name="water_drink_01">Vous avez avancé de 27 secondes à votre temps d’eau</string>
+    <string name="water_drink_02">L\'eau aide à hydrater votre peau</string>
+    <string name="water_drink_03">Suivant dans 55 minutes 30 secondes</string>
+    <string name="text_enable_alarm">Activer l\'alarme</string>
+    <string name="text_disable_alarm">Désactiver l\'alarme</string>
+    <string name="text_drink_water">Boire de l\'eau</string>
+    <string name="water_drink_04">Vous portez 150 mL de 1000L</string>
+    <string name="dialog_text_reactivate_alarm">Votre heure de fin est déjà passée. Voulez-vous continuer à recevoir des alarmes?</string>
+    <string name="dialog_exit">Non, sors</string>
+    <string name="dialog_extend_hours">Oui, prolonger le temps</string>
+    <string name="text_drinking_over">Période de consommation terminée! \n</string>
+    <string name="text_share_content">Salut! Essayez cette application pour vous rappeler de boire de l\'eau, je vous le recommande:</string>
+    <string name="text_share_subject">Buvons de l\'eau!</string>
+    <string name="text_share_title">Partager l\'application avec des amis!</string>
+    <string name="text_your_goal_01">Votre objectif aujourd\'hui est de</string>
+    <string name="text_your_goal_02">d\'eau</string>
+    <string name="text_remember_each">Rappelez-vous chacun:</string>
+    <string name="text_timepicker_title">À quelle fréquence souhaitez-vous recevoir des notifications?</string>
+    <string name="text_your_record_so_far">C\'est le bilan de votre journée jusqu\'à présent</string>
+    <string name="text_goal_reached_01">FÉLICITATIONS! \n Vous avez déjà atteint votre objectif aujourd\'hui!</string>
+    <string name="text_goal_reached_02">Bien fait! Vous avez atteint votre objectif aujourd\'hui!</string>
+    <string name="text_hurra">Bravo!</string>
+    <string name="text_progress_01">Progression: \n tu prends</string>
+    <string name="text_progress_02">votre but est</string>
+    <string name="text_stats_01">Vous êtes venu en avant par</string>
+    <string name="text_stats_02">à votre heure pour boire de l\'eau</string>
+    <string name="text_drink_water_now">Buvez de l\'eau maintenant</string>
+    <string name="dialog_huawei_title">HUAWEI</string>
+    <string name="dialog_huawei_message">Il est nécessaire d\'ajouter l\'application à la liste des applications protégées pour recevoir des notifications.</string>
+    <string name="text_proceed">Procéder</string>
+    <string name="text_its_done">C\'est déjà fait</string>
+    <string name="text_of">de</string>
+    <string name="text_report_title">Records de \n</string>
+    <string name="text_report_loading">Chargement des enregistrements ...</string>
+    <string name="text_report_no_records">Vous n\'avez pas encore de disques!</string>
+    <string name="text_record_yesterday">Voir le record d\'hier</string>
+    <string name="text_record_today">Voir les records du jour</string>
+    <string name="text_custom_milliliters">Ajouter des millilitres</string>
+    <string name="text_amount_empty">Le montant est vide</string>
+    <string name="text_amount_greater_than">La quantité doit être supérieure à 10</string>
+    <string name="text_todays_records">Records du jour</string>
+    <string name="text_your_record_yesterday">Ce sont les records d\'hier</string>
+
+    <string name="text_first_drink_01">Prêt à boire de l\'eau à tout moment!</string>
+    <string name="text_first_drink_02">Commençons ... \n \n Prenez un verre d\'eau maintenant, appuyez sur le bouton puis sélectionnez la quantité ingérée. \n Après avoir poursuivi vos activités, nous vous ferons savoir quand vous devriez boire à nouveau.</string>
+    <string name="text_break_hours_01">Heures de repos! \n Les notifications sont désactivées</string>
+    <string name="text_break_hours_02">L’alarme est désactivée ... \n \n Prenez un verre d’eau maintenant, appuyez sur le bouton, puis sélectionnez la quantité ingérée. \n Si vous souhaitez toujours recevoir des alarmes, vous pouvez prolonger votre heure de fin dans les paramètres.</string>
+    <string name="text_vol_unit_mililiters">mL</string>
+    <string name="text_vol_unit_liters">L</string>
+    <string name="text_you_have">Vous portez</string>
+    <string name="text_well_done">Bien fait!</string>
+    <string name="text_timepicker_title_start_hours">Sélectionnez l\'heure de début \n (entre 01h00 et 12h00)</string>
+    <string name="text_timepicker_title_end_hours">Sélectionnez l\'heure de fin \n (entre 18h00 et 23h59)</string>
+    <string name="text_next_in">Suivant dans</string>
+    <string name="text_i_drink">Je bois déjà de l\'eau!</string>
+
+
+    <string name="text_start_title">Heure de début</string>
+    <string name="text_start_at">Nous commençons à</string>
+    <string name="text_end_title">Temps approximatif pour finir</string>
+    <string name="text_end_at">Nous concluons près du</string>
+
+    <string name="text_news_title">NOUVEAUTES</string>
+    <string name="text_next">Suivant</string>
+    <string name="text_see_content">Voir le contenu</string>
+
+    <string name="text_our_goal">Notre but</string>
+    <string name="text_change">Changer</string>
+    <string name="text_reminder_title">Rappelez-vous chacun: \n 2 heures 48 minutes</string>
+
+    <string name="text_drink_amount">Montant en buvant:</string>
+    <string name="text_skip_time">SAUTER pendant:</string>
+    <string name="text_notification_title">Configuration de la notification</string>
+
+    <string name="text_cancel_drink">Annuler, fausse alarme</string>
+    <string name="text_how_much_you_drink">Combien avez-vous \n bu?</string>
+
+    <string name="text_lets_rate">Notons</string>
+    <string name="text_rate_content">Prenez un moment pour commenter et noter cette nouvelle version de l\'application. Avec une bonne note, vous nous aidez beaucoup à continuer à travailler sur des améliorations.</string>
+    <string name="text_rate_title">Que pensez-vous de cette nouvelle version de l\'application?</string>
+
+    <string name="text_notification_case_02">Enregistré depuis la notification</string>
+    <string name="text_notification_case_03">Vous n\'avez pas bu d\'eau. \n Vous avez entré la notification</string>
+    <string name="text_notification_case_04">Ignoré de la notification</string>
+    <string name="text_notification_case_05">La notification a été fermée</string>
+    <string name="text_notification_case_06">Tu es parti sans boire</string>
+
+    <string name="text_congratulations">FÉLICITATIONS!</string>
+    <string name="text_congratulations_01">Vous avez atteint</string>
+    <string name="text_congratulations_02">de l\'eau pendant cette journée. Vous avez atteint votre objectif de</string>
+    <string name="text_congratulations_03">et vous avez gardé votre corps hydraté. Continue comme ça!</string>
+    <string name="text_congratulations_04">FÉLICITATIONS! VOUS AVEZ ATTEINT LE BUT D\'AUJOURD\'HUI</string>
+
+    <string name="coutdown_done_text_01">L\'eau offre vitalité et santé, nécessaire pour pratiquer des activités physiques et rester motivé.</string>
+    <string name="coutdown_done_text_02">Une bonne hydratation améliore le fonctionnement de notre corps.</string>
+    <string name="coutdown_done_text_03">Votre corps se sentira beaucoup mieux si vous le gardez hydraté.</string>
+    <string name="coutdown_done_text_04">La consommation d\'eau devrait être lorsque votre corps le demande, si vous n\'avez pas soif, vous ne devriez pas boire d\'eau. Vous devez trouver le bon équilibre.</string>
+    <string name="coutdown_done_text_05">Une consommation régulière d\'eau contribue à un meilleur fonctionnement des reins.</string>
+    <string name="coutdown_done_text_06">N\'oubliez pas que vous avez un objectif que vous souhaitez atteindre</string>
+    <string name="coutdown_done_text_07">Ce n\'est pas difficile, nous allons chercher un verre d\'eau, une étape à la fois ...</string>
+    <string name="coutdown_done_text_08">Si vous buvez environ 10 verres d\'eau froide par jour, vous brûlerez 490 calories supplémentaires par semaine.</string>
+    <string name="coutdown_done_text_09">La désintoxication du corps, un meilleur tonus musculaire et une peau plus saine font partie des avantages de l\'ingestion régulière de H2O.</string>
+    <string name="coutdown_done_text_10">Il est préférable de boire de l\'eau avec les repas avant les autres liquides</string>
+    <string name="coutdown_done_text_11">Apportez une petite bouteille d’eau au bureau, à l’école, etc. alors n\'oubliez pas de rester hydraté</string>
+    <string name="coutdown_done_text_12">Si vous voulez .. vous pouvez ajouter du citron à l’eau pour lui donner du goût, cela aide aussi à prendre plus régulièrement</string>
+    <string name="coutdown_done_text_13">Mentalize et ne pas trouver des excuses pour ne pas boire d\'eau, rappelez-vous qu\'il s\'agit d\'un élément essentiel du corps et du processus de perte de poids. Après avoir pris régulièrement pendant 3 jours, cela devient une habitude ... ou alors ils disent ...</string>
+    <string name="coutdown_done_text_default">Tu as soif?</string>
+    <string name="title_start_01">Bonjour!</string>
+    <string name="title_start_02">Bonjour!</string>
+    <string name="title_start_03">Il est temps de commencer</string>
+    <string name="title_start_04">Nouveau jour commence</string>
+    <string name="title_start_05">Tu as bien dormi?</string>
+    <string name="title_start_06">Il est temps de commencer!</string>
+    <string name="title_start_07">Heure de début!</string>
+    <string name="title_start_default">Temps de boire de l\'eau</string>
+    <string name="title_end_01">Temps pour finir</string>
+    <string name="title_end_02">Nous finissons ... pour aujourd\'hui</string>
+    <string name="title_end_03">Nous avons le résumé du jour</string>
+    <string name="title_end_default">Rapport du jour!</string>
+    <string name="title_drink_time_01">Venu le temps</string>
+    <string name="title_drink_time_03">Tu as soif?</string>
+    <string name="title_drink_time_04">Touchez vous hydrater</string>
+    <string name="title_drink_time_default">Boire de l\'eau</string>
+    <string name="text_start_01">Commençons à atteindre l\'objectif d\'aujourd\'hui!</string>
+    <string name="text_start_02">Commençons par notre objectif de</string>
+    <string name="text_start_03">de l\'eau pour aujourd\'hui!</string>
+    <string name="text_start_04">N\'oubliez pas de boire de l\'eau quand vous avez vraiment soif</string>
+    <string name="text_start_05">Perdez la paresse et commencez à hydrater votre journée!</string>
+    <string name="text_start_06">Prêt à boire votre premier verre d\'eau?</string>
+    <string name="text_start_default">Il est temps de se lever du bon pied</string>
+    <string name="text_end_01">Tu as consommé</string>
+    <string name="text_end_02">. Entrez pour voir plus de détails</string>
+    <string name="text_end_03">Tu as pris</string>
+    <string name="text_end_04">de l\'eau pendant cette journée</string>
+    <string name="text_end_default">Voulez-vous savoir à quelle heure avez-vous bu de l\'eau aujourd\'hui? Entrez et révisez votre résumé</string>
+    <string name="text_drink_time_01">L\'heure H2O est arrivée</string>
+    <string name="text_drink_time_02">Hey, tu as déjà soif?</string>
+    <string name="text_drink_time_03">Touchez vous hydrater</string>
+    <string name="text_drink_time_default">Ne buvez de l\'eau que lorsque vous avez soif</string>
+    <string name="big_text_start_01">Ce début, boire de l\'eau calmement. Évitez les problèmes d\'ingestion, votre corps ne fait que commencer</string>
+    <string name="big_text_start_02">Nous vous rappelons de boire de l\'eau quand vous avez soif, vous pouvez attendre un peu si vous ne voulez toujours pas vous lever du lit</string>
+    <string name="big_text_start_03">J\'espère que tu as bien dormi! Je vous assure que l\'hydratation maintenant vous aidera à prendre de l\'énergie pour bien commencer la journée</string>
+    <string name="big_text_start_04">Peut-être que vous êtes à l\'aise au lit ... ou peut-être êtes-vous sur le point de travailler ... buvez de l\'eau quand vous le pouvez, vous pouvez sauter votre premier verre si vous n\'êtes pas encore prêt</string>
+    <string name="big_text_start_05">Boire 1 ou 2 verres d\'eau à jeun est idéal pour éliminer les toxines et toutes les substances dont notre corps n\'a pas besoin.</string>
+    <string name="big_text_start_06">Un verre d\'eau ou plus de jeûne permet de minimiser les effets nocifs de substances telles que l\'alcool, le tabac, la pollution, la malbouffe, entre autres.</string>
+    <string name="big_text_start_07">Hey, pour combattre et prévenir la constipation, vous pouvez commencer avec H2O le matin, car cela stimule le mouvement intestinal, mais si c\'est le premier verre, faites-le calmement</string>
+    <string name="big_text_start_default">Pendant la nuit, le corps travaille à la réparation des cellules et au nettoyage interne. Pour cette raison, boire un verre d\'eau à jeun est une très bonne chose, cela donnera au corps une impulsion pour libérer tous les déchets dont il n\'a pas besoin, à travers le l\'urine</string>
+    <string name="big_text_end_01">Vous avez consommé</string>
+    <string name="big_text_end_02">N\'oubliez pas qu\'il est important de suivre l\'évolution de votre activité. N\'oubliez pas de consulter votre activité en cliquant sur cette notification.</string>
+    <string name="big_text_end_03">bien fait! Les notifications n\'apparaîtront plus sur votre téléphone, ce sera jusqu\'au prochain démarrage.</string>
+    <string name="big_text_end_04">Nous avons votre résumé aujourd\'hui! Allez voir comment c\'était aujourd\'hui</string>
+    <string name="big_text_end_default_01">Les heures de repos commencent maintenant et vous avez ingéré</string>
+    <string name="big_text_end_default_02">jusqu\'à ce moment. Entrez cette notification pour voir les détails</string>
+    <string name="big_text_end_goal_reached_01">FÉLICITATIONS! \n Vous avez pu atteindre votre objectif quotidien avec</string>
+    <string name="big_text_end_goal_reached_02">d\'eau ingérée aujourd\'hui</string>
+    <string name="big_text_end_goal_reached_03">EXCELLENT! \n Avec</string>
+    <string name="big_text_end_goal_reached_04">Vous avez réussi à passer la marque établie. Excellente journée!</string>
+    <string name="big_text_end_goal_reached_05">VOUS AVEZ ATTEINT LE BUT! \n Vous l\'avez fait, entrez et regardez votre activité aujourd\'hui. CONTINUE COMME ÇA!</string>
+    <string name="big_text_end_goal_reached_default_01">Vous y parvenez! \n</string>
+    <string name="big_text_end_goal_reached_default_02">que votre corps a ajouté pour fonctionner correctement \n Beaucoup de félicitations! \n \n Entrez cette notification pour afficher votre activité</string>
+    <string name="big_text_drink_time_01">Savez-vous que l\'eau potable aide à soulager la fatigue? Le corps utilise l\'eau pour éliminer les toxines et les déchets dont il n\'a pas besoin. Lorsqu\'il y a moins d\'eau dans le corps, le cœur doit travailler plus fort pour pomper le sang oxygéné vers toutes les cellules et autres organes principaux, ce qui peut causer de la fatigue. Allons prendre un verre d\'eau!</string>
+    <string name="big_text_drink_time_02">Une peau saine? L\'eau aide à reconstituer les tissus de la peau, à l\'hydrater et à augmenter son élasticité. Lorsque le corps reçoit suffisamment d\'eau, la peau sera hydratée. Il aide également avec les cicatrices, l\'acné, les rides et autres symptômes du vieillissement</string>
+    <string name="big_text_drink_time_03">Certaines études indiquent que la consommation d\'eau réduit également le risque de cancer de la vessie et du côlon. L\'eau détruit les agents cancérigènes en réduisant le risque de différents types de cancer.</string>
+    <string name="big_text_drink_time_04">La mauvaise haleine est un signe clair que le corps a besoin de plus d\'eau. La salive aide votre bouche à se débarrasser des bactéries et à garder la langue hydratée. Pour cette raison, chaque fois que nous avons mauvaise haleine, la première chose à faire est de boire beaucoup d\'eau.</string>
+    <string name="big_text_drink_time_05">H2O aide à éliminer les sous-produits de la graisse. Quand on boit, l\'estomac est rempli, ce qui nous fait perdre un peu d\'appétit. L\'eau ne contient pas de calories, de lipides, d\'hydrates de carbone ou de sucre et constitue un excellent substitut aux boissons riches en calories.</string>
+    <string name="big_text_drink_time_06">L\'ingestion d\'eau renforce les défenses naturelles de notre corps et a un effet lubrifiant sur les muscles et les articulations, car elle les protège et les aide à fonctionner correctement. Cela améliore la force de nos ligaments et de nos muscles.</string>
+    <string name="big_text_drink_time_07">Si vous ne voulez pas boire maintenant, je vous le rappellerai dans quelques minutes ...</string>
+    <string name="big_text_drink_time_default">La mauvaise haleine est un signe clair que le corps a besoin de plus d\'eau. La salive aide votre bouche à se débarrasser des bactéries et à garder la langue hydratée. Pour cette raison, chaque fois que nous avons mauvaise haleine, la première chose à faire est de boire beaucoup d\'eau.</string>
+</resources>

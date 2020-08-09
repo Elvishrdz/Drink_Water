@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пить воду приложение</string>
+    <string name="channel_description">Уведомления пить воду</string>
+
+    <string name="monday">понедельник</string>
+    <string name="tuesday">вторник</string>
+    <string name="wednesday">среда</string>
+    <string name="thursday">четверг</string>
+    <string name="friday">пятница</string>
+    <string name="saturday">суббота</string>
+    <string name="sunday">воскресенье</string>
+    <string name="january">январь</string>
+    <string name="fabruary">февраль</string>
+    <string name="march">марш</string>
+    <string name="april">апреля</string>
+    <string name="may">может</string>
+    <string name="june">июнь</string>
+    <string name="july">июль</string>
+    <string name="august">августейший</string>
+    <string name="september">сентябрь</string>
+    <string name="october">октября</string>
+    <string name="november">ноябрь</string>
+    <string name="december">декабрь</string>
+    <string name="text_hour">время</string>
+    <string name="text_minute">минут</string>
+    <string name="text_second">второй</string>
+    <string name="text_hours">часов</string>
+    <string name="text_minutes">минут</string>
+    <string name="text_seconds">секунд</string>
+    <string name="validate_email_empty">Введите адрес электронной почты!</string>
+    <string name="validate_email_invalid">Неверный адрес</string>
+    <string name="validate_password_empty">Введите пароль!</string>
+    <string name="validate_password_too_short">Очень короткий пароль!</string>
+    <string name="validate_phone_empty">Пустой номер</string>
+    <string name="validate_phone_incomplete">Неполный номер</string>
+    <string name="validate_phone_too_long">Номер слишком большой</string>
+    <string name="validate_phone_only_numbers">Заявка не должна содержать только буквы</string>
+
+
+    <string name="privacy_policy_local_content"><![CDATA[<p>"<p>Effective date: May 08, 2019</p> <p>Drink Water App (\"us\", \"we\", or \"our\") operates the Drink Water App mobile application (the \"Service\").</p> <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Drink Water App is created with the help of the&nbsp;<a href=\"https://www.freeprivacypolicy.com/free-privacy-policy-generator.php\">Free Privacy Policy Generator</a>.</p> <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p> <h2>Information Collection And Use</h2> <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p> <h3>Types of Data Collected</h3> <h4>Personal Data</h4> <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</p> <ul> <li>Email address</li> <li>First name and last name</li> <li>Cookies and Usage Data</li> </ul> <h4>Usage Data</h4> <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (\"Usage Data\").</p> <h4>Tracking &amp; Cookies Data</h4> <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p> <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p> <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p> <p>Examples of Cookies we use:</p> <ul> <li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li> <li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li> <li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li> </ul> <h2>Use of Data</h2> <p>Drink Water App uses the collected data for various purposes:</p> <ul> <li>To provide and maintain the Service</li> <li>To notify you about changes to our Service</li> <li>To allow you to participate in interactive features of our Service when you choose to do so</li> <li>To provide customer care and support</li> <li>To provide analysis or valuable information so that we can improve the Service</li> <li>To monitor the usage of the Service</li> <li>To detect, prevent and address technical issues</li> </ul> <h2>Transfer Of Data</h2> <p>Your information, including Personal Data, may be transferred to &mdash; and maintained on &mdash; computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p> <p>If you are located outside Nicaragua and choose to provide information to us, please note that we transfer the data, including Personal Data, to Nicaragua and process it there.</p> <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p> <p>Drink Water App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> <h2>Disclosure Of Data</h2> <h3>Legal Requirements</h3> <p>Drink Water App may disclose your Personal Data in the good faith belief that such action is necessary to:</p> <ul> <li>To comply with a legal obligation</li> <li>To protect and defend the rights or property of Drink Water App</li> <li>To prevent or investigate possible wrongdoing in connection with the Service</li> <li>To protect the personal safety of users of the Service or the public</li> <li>To protect against legal liability</li> </ul> <h2>Security Of Data</h2> <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p> <h2>Service Providers</h2> <p>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p> <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> <h2>Links To Other Sites</h2> <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p> <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p> <h2>Children's Privacy</h2> <p>Our Service does not address anyone under the age of 18 (\"Children\").</p> <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p> <h2>Changes To This Privacy Policy</h2> <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p> <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.</p> <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p> <h2>Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us:</p> <ul> <li>By email: eahm3595@gmail.com</li> </ul>"</p>]]></string>
+    <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="privacy_policy_alert">Вы должны принять политику, чтобы использовать приложение</string>
+    <string name="privacy_policy_accept">Я прочитал и согласен с политикой конфиденциальности</string>
+    <string name="text_continue">продолжать</string>
+
+    <string name="text_ouch">Ой!</string>
+    <string name="text_ss_validating_config">Проверка настроек ...</string>
+    <string name="text_ss_getting_language">Получение языка ...</string>
+    <string name="text_ss_showing_pp">Показаны наши политики конфиденциальности</string>
+    <string name="ss_getting_content">Получение контента ...</string>
+    <string name="ss_not_connected">Вы не подключены к Интернету ... Проверьте подключение</string>
+    <string name="ss_getting_info">Получение информации из приложения ...</string>
+    <string name="ss_checking_news">Проверка новостей ...</string>
+    <string name="ss_verifying_user">Проверка пользователя ...</string>
+    <string name="ss_loading_content">Загрузка контента ...</string>
+    <string name="permission_request_01">Приложение требует авторизации некоторых разрешений для правильной работы.</string>
+    <string name="permission_request_02">Приложение требует авторизации некоторых разрешений для правильной работы. \n Для получения дополнительной информации о каждом из них проверьте нашу политику конфиденциальности</string>
+    <string name="ss_confirm_permissions_1">Подтверждение начальных разрешений приложения ...</string>
+    <string name="ss_confirm_permissions_2">Подтверждение разрешений приложения ...</string>
+    <string name="ss_confirm_permissions_3">Разрешения необходимы для запуска приложения</string>
+    <string name="ss_starting">Начиная ...</string>
+
+    <string name="permission_system_alert_window">Вам нужно разрешение для отображения виджета на экране, когда вы достигаете своей ежедневной водной цели.</string>
+    <string name="permission_read_external">Разрешение на чтение необходимо для получения информации, созданной приложением, относительно текущего пользователя.</string>
+    <string name="permission_write_external">Разрешение на запись необходимо для локального хранения важной информации и оптимизации загрузки служб.</string>
+
+    <string name="permission_grant">разрешать</string>
+
+    <string name="permission_system_alert_windows">Нам нужно разрешение на отображение виджета на экране вашего телефона, когда вы достигнете своей цели</string>
+    <string name="permission_system_alert_windows_explanation">Требуется, например: Показать виджет поздравлений</string>
+    <string name="permission_read_external_title">Нам нужны разрешения на чтение!</string>
+    <string name="permission_read_external_explanation">Необходимо, например: извлечь записи о питье воды, время и т. Д.</string>
+    <string name="permission_write_external_title">Нам нужны разрешения на запись!</string>
+    <string name="permission_write_external_explanation">Необходимо, например: сохранить сеанс на телефоне.</string>
+
+
+    <string name="button_login">Войти</string>
+    <string name="text_sign_up">Регистрация</string>
+    <string name="text_return">возвращение</string>
+    <string name="text_password">пароль</string>
+    <string name="text_email">электронная почта</string>
+    <string name="text_forgot_password">Забыли пароль?</string>
+    <string name="text_join">присоединиться</string>
+    <string name="text_send_password_instructions">Отправить инструкции</string>
+
+
+    <string-array name="weight_metric_volume">
+        <item>фунты</item>
+        <item>кг</item>
+    </string-array>
+
+    <string-array name="aprox_max">
+        <item>миллилитров</item>
+        <item>л</item>
+    </string-array>
+
+    <string-array name="noti_skip_times">
+        <item>5мин</item>
+        <item>10мин</item>
+        <item>15мин</item>
+        <item>20мин</item>
+    </string-array>
+
+    <string-array name="noti_drinks">
+        <item>10mL</item>
+        <item>50mL</item>
+        <item>100 мл</item>
+        <item>150 мл</item>
+    </string-array>
+
+
+    <string name="exit_press_again">Нажмите еще раз, чтобы выйти</string>
+    <string name="message_app_disabled">В настоящее время приложение отключено, попробуйте еще раз через несколько минут ...</string>
+    <string name="message_update_new_version">Новая версия доступна. Загрузите его сейчас!</string>
+    <string name="text_download">СКАЧАТЬ</string>
+    <string name="text_exit">выход</string>
+    <string name="text_later">позже</string>
+    <string name="text_accept">принимать</string>
+    <string name="text_permissions">разрешений</string>
+    <string name="text_session_in_other_device">Активный сеанс на другом устройстве!</string>
+
+    <string name="app_global_name">ПИТЬЕВАЯ ВОДА</string>
+    <string name="welcome_guide_01">Это поможет вам настроить в соответствии с вашими предпочтениями</string>
+    <string name="text_welcome">добро пожаловать</string>
+    <string name="welcome_guide_02">Какой у тебя вес сейчас?</string>
+    <string name="welcome_guide_03">Установите META вручную</string>
+    <string name="welcome_guide_04">Мы рассчитаем начальную цель для вас</string>
+    <string name="welcome_guide_05">1000 миллилитров</string>
+    <string name="welcome_guide_06">Использовать рассчитанную сумму</string>
+    <string name="welcome_guide_07">Установите META вручную</string>
+    <string name="welcome_guide_08">Хотите установить это как свою ежедневную цель?</string>
+    <string name="welcome_guide_09">Не волнуйтесь, вы можете изменить эти значения позже в приложении</string>
+    <string name="welcome_guide_10">Ваше расчетное потребление в день</string>
+    <string name="welcome_guide_11">Сколько вы хотите достичь в день?</string>
+    <string name="welcome_guide_12">Как часто вы хотите, чтобы вас запомнили?</string>
+    <string name="welcome_guide_13">Когда вы пьете воду, мы немного подождем, прежде чем снова уведомим вас.</string>
+    <string name="welcome_guide_14">В какое время вы хотите начать пить воду?</string>
+    <string name="welcome_guide_15">С 1:00 до 12:00</string>
+    <string name="welcome_guide_16">В какое время ночи вы хотите прекратить получать уведомления? (О)</string>
+    <string name="welcome_guide_17">С 6:00 до 11:59</string>
+    <string name="welcome_guide_18">Если у вас есть уведомление, вы можете выбрать время между пропуском на некоторое время и выпивкой заранее определенного количества воды без необходимости входа в приложение.</string>
+    <string name="text_drink">Beber</string>
+    <string name="text_skip">ПРЫЖОК</string>
+    <string name="welcome_guide_19">Время пить воду! Вы носите 970 мл сегодня. Ваша цель - 1 литр.</string>
+    <string name="welcome_guide_20">Мы будем отправлять вам уведомления, чтобы вы не забыли пить воду</string>
+    <string name="text_notifications">Уведомления</string>
+    <string name="welcome_guide_21">Как долго вы хотите, когда вы опускаете уведомление?</string>
+    <string name="welcome_guide_22">Не волнуйтесь, вы можете изменить эти значения позже в приложении</string>
+    <string name="welcome_guide_23">Сколько вы хотите зарегистрировать, когда вы нажимаете кнопку DRINK в уведомлении?</string>
+    <string name="welcome_guide_24">Не волнуйтесь, вы можете изменить эти значения позже в приложении</string>
+    <string name="text_start">начало</string>
+    <string name="welcome_guide_25">Каждые 45 минут вы будете получать уведомления о достижении ежедневной цели в 1,5 литра воды (1500 миллилитров).</string>
+    <string name="welcome_guide_26">Мы готовы!</string>
+    <string name="text_enter_a_valid_amout">Введите действительную сумму</string>
+    <string name="text_enter_an_amount_greater_lbs">Введите сумму, превышающую 10 фунтов</string>
+    <string name="text_enter_an_amount_greater_kg">Введите сумму, превышающую 5 килограмм</string>
+    <string name="text_liters">л</string>
+    <string name="text_mililiters">миллилитров</string>
+    <string name="text_something_isnt_correct">Вернитесь и пересчитайте, что-то не так</string>
+    <string name="text_interval_too_short">Интервал слишком короткий</string>
+    <string name="text_interval_too_big">Интервал слишком велик</string>
+    <string name="text_out_of_range_hour">Выбранное время не находится в диапазоне</string>
+    <string name="text_welcome_stats_01">Вы будете уведомлены каждый</string>
+    <string name="text_welcome_stats_02">чтобы вы достигли своей ежедневной цели</string>
+    <string name="text_welcome_stats_03">воды</string>
+
+    <string name="water_drink_01">Вы продвинулись на 27 секунд к вашему времени воды</string>
+    <string name="water_drink_02">Вода помогает увлажнить вашу кожу</string>
+    <string name="water_drink_03">Далее через 55 минут 30 секунд</string>
+    <string name="text_enable_alarm">Активировать будильник</string>
+    <string name="text_disable_alarm">Отключить будильник</string>
+    <string name="text_drink_water">Пить воду</string>
+    <string name="water_drink_04">Вы несете 150 мл 1000 л</string>
+    <string name="dialog_text_reactivate_alarm">Мы уже прошли ваше последнее время. Вы хотите продолжать получать сигналы тревоги?</string>
+    <string name="dialog_exit">Нет, выходи</string>
+    <string name="dialog_extend_hours">Да, продлить время</string>
+    <string name="text_drinking_over">Период питья закончен! \n</string>
+    <string name="text_share_content">Здравствуйте! Попробуйте это приложение, чтобы напомнить вам пить воду, я рекомендую вам:</string>
+    <string name="text_share_subject">Давайте пить воду!</string>
+    <string name="text_share_title">Поделитесь приложением с друзьями!</string>
+    <string name="text_your_goal_01">Ваша цель сегодня состоит в том, чтобы</string>
+    <string name="text_your_goal_02">воды</string>
+    <string name="text_remember_each">Помните каждого:</string>
+    <string name="text_timepicker_title">Как часто вы хотите получать уведомления?</string>
+    <string name="text_your_record_so_far">Это запись вашего дня до сих пор</string>
+    <string name="text_goal_reached_01">ПОЗДРАВЛЯЕМ! \n Вы уже достигли своей цели сегодня!</string>
+    <string name="text_goal_reached_02">Хорошо сделано! Вы достигли своей цели сегодня!</string>
+    <string name="text_hurra">Браво!</string>
+    <string name="text_progress_01">Прогресс: \n Вы принимаете</string>
+    <string name="text_progress_02">ваша цель</string>
+    <string name="text_stats_01">Вы пришли вперед</string>
+    <string name="text_stats_02">в ваше время пить воду</string>
+    <string name="text_drink_water_now">Пить воду сейчас</string>
+    <string name="dialog_huawei_title">HUAWEI</string>
+    <string name="dialog_huawei_message">Для получения уведомлений необходимо добавить приложение в список защищенных приложений.</string>
+    <string name="text_proceed">продолжить</string>
+    <string name="text_its_done">Сделано</string>
+    <string name="text_of">из</string>
+    <string name="text_report_title">Записи \n</string>
+    <string name="text_report_loading">Загрузка записей ...</string>
+    <string name="text_report_no_records">У вас еще нет записей!</string>
+    <string name="text_record_yesterday">Смотрите вчерашнюю запись</string>
+    <string name="text_record_today">Смотрите сегодняшние записи</string>
+    <string name="text_custom_milliliters">Добавить миллилитры</string>
+    <string name="text_amount_empty">Сумма пуста</string>
+    <string name="text_amount_greater_than">Количество должно быть больше 10</string>
+    <string name="text_todays_records">Сегодняшние рекорды</string>
+    <string name="text_your_record_yesterday">Это записи вчера</string>
+
+    <string name="text_first_drink_01">Готовы пить воду в любое время!</string>
+    <string name="text_first_drink_02">Давайте начнем ... \n \n Возьмите стакан воды, нажмите кнопку и затем выберите количество, которое вы приняли. \n После продолжения вашей деятельности мы сообщим вам, когда вы должны снова пить</string>
+    <string name="text_break_hours_01">Часы отдыха! \n Уведомления отключены</string>
+    <string name="text_break_hours_02">Будильник выключен ... \n \n Возьмите стакан воды, нажмите кнопку и затем выберите количество, которое вы приняли. \n Если вы все еще хотите получать сигналы тревоги, вы можете продлить свое время окончания в настройках</string>
+    <string name="text_vol_unit_mililiters">мл</string>
+    <string name="text_vol_unit_liters">L</string>
+    <string name="text_you_have">Вы несете</string>
+    <string name="text_well_done">Хорошо сделано!</string>
+    <string name="text_timepicker_title_start_hours">Выберите время начала \n (с 01:00 до 12:00)</string>
+    <string name="text_timepicker_title_end_hours">Выберите время окончания \n (с 06:00 до 23:59)</string>
+    <string name="text_next_in">Далее в</string>
+    <string name="text_i_drink">Я уже пью воду!</string>
+
+
+    <string name="text_start_title">Время начала</string>
+    <string name="text_start_at">Мы начинаем с</string>
+    <string name="text_end_title">Приблизительное время, чтобы закончить</string>
+    <string name="text_end_at">Мы заключаем около</string>
+
+    <string name="text_news_title">Что нового</string>
+    <string name="text_next">после</string>
+    <string name="text_see_content">Посмотреть содержание</string>
+
+    <string name="text_our_goal">Наша цель</string>
+    <string name="text_change">изменение</string>
+    <string name="text_reminder_title">Помните каждого: \n 2 часа 48 минут</string>
+
+    <string name="text_drink_amount">Сумма при питье:</string>
+    <string name="text_skip_time">Прыжок во время:</string>
+    <string name="text_notification_title">Конфигурация уведомлений</string>
+
+    <string name="text_cancel_drink">Отмена, ложная тревога</string>
+    <string name="text_how_much_you_drink">Сколько ты \n пьян?</string>
+
+    <string name="text_lets_rate">Давайте оценим</string>
+    <string name="text_rate_content">Найдите минутку, чтобы прокомментировать и оценить эту новую версию приложения. С хорошим рейтингом вы очень помогаете нам продолжать работать над улучшениями</string>
+    <string name="text_rate_title">Что вы думаете об этой новой версии приложения?</string>
+
+    <string name="text_notification_case_02">Зарегистрирован с момента уведомления</string>
+    <string name="text_notification_case_03">Вы не пили воду. \n Вы вошли из уведомления</string>
+    <string name="text_notification_case_04">Пропущено из уведомления</string>
+    <string name="text_notification_case_05">Уведомление было закрыто</string>
+    <string name="text_notification_case_06">Вы остались без питья</string>
+
+    <string name="text_congratulations">ПОЗДРАВЛЯЕМ!</string>
+    <string name="text_congratulations_01">Вы достигли</string>
+    <string name="text_congratulations_02">воды в этот день. Вы достигли своей цели</string>
+    <string name="text_congratulations_03">и вы сохранили свое тело увлажненным. Так держать!</string>
+    <string name="text_congratulations_04">ПОЗДРАВЛЯЕМ! ВЫ ДОСТИГЛИ ЦЕЛЬ СЕГОДНЯ</string>
+
+    <string name="coutdown_done_text_01">Вода дает жизненные силы и здоровье, необходимые для физических нагрузок и поддержания мотивации.</string>
+    <string name="coutdown_done_text_02">Хорошая гидратация улучшает функционирование нашего организма.</string>
+    <string name="coutdown_done_text_03">Ваше тело будет чувствовать себя намного лучше, если вы будете держать его увлажненным.</string>
+    <string name="coutdown_done_text_04">Потребление воды должно происходить, когда ваше тело об этом просит, если вы не хотите пить, то вам не следует пить воду. Вы должны найти правильный баланс.</string>
+    <string name="coutdown_done_text_05">Регулярное потребление воды способствует лучшему функционированию почек.</string>
+    <string name="coutdown_done_text_06">Помните, у вас есть цель, которую вы хотите достичь</string>
+    <string name="coutdown_done_text_07">Это не сложно, мы будем искать стакан воды, шаг за шагом ...</string>
+    <string name="coutdown_done_text_08">Если вы пьете около 10 стаканов холодной воды в день, вы сжигаете дополнительно 490 калорий в неделю</string>
+    <string name="coutdown_done_text_09">Детоксикация организма, улучшение мышечного тонуса и оздоровление кожи - вот некоторые преимущества регулярного приема H2O</string>
+    <string name="coutdown_done_text_10">Предпочтительно пить воду во время еды перед другими жидкостями</string>
+    <string name="coutdown_done_text_11">Принесите бутылочку воды в офис, школу и т. Д. так что не забывай оставаться увлажненным</string>
+    <string name="coutdown_done_text_12">Если вы хотите .. вы можете добавить лимон в воду, чтобы придать ей аромат, это также помогает принимать более регулярно</string>
+    <string name="coutdown_done_text_13">Подумайте и не находите оправданий, чтобы не пить воду, помните, что это необходимый элемент в организме и в процессе похудения. После регулярного приема в течение 3 дней это становится привычкой ... или так говорят ...</string>
+    <string name="coutdown_done_text_default">Вы хотите пить?</string>
+    <string name="title_start_01">Доброе утро</string>
+    <string name="title_start_02">Доброе утро</string>
+    <string name="title_start_03">Время начинать</string>
+    <string name="title_start_04">Новый день начинается</string>
+    <string name="title_start_05">Ты хорошо спал?</string>
+    <string name="title_start_06">Время начинать!</string>
+    <string name="title_start_07">Время начала!</string>
+    <string name="title_start_default">Время пить воду</string>
+    <string name="title_end_01">Время закончить</string>
+    <string name="title_end_02">Мы заканчиваем ... на сегодня</string>
+    <string name="title_end_03">У нас есть итог дня</string>
+    <string name="title_end_default">Отчет дня!</string>
+    <string name="title_drink_time_01">Время пришло</string>
+    <string name="title_drink_time_03">Вы хотите пить?</string>
+    <string name="title_drink_time_04">Прикоснитесь к гидрату</string>
+    <string name="title_drink_time_default">Пить воду</string>
+    <string name="text_start_01">Давайте начнем достигать сегодняшней цели!</string>
+    <string name="text_start_02">Давайте начнем с нашей цели</string>
+    <string name="text_start_03">воды на сегодня!</string>
+    <string name="text_start_04">Не забывайте пить воду, когда вы действительно хотите пить</string>
+    <string name="text_start_05">Потеряйте лень и начните увлажнять свой день!</string>
+    <string name="text_start_06">Готов выпить свой первый стакан воды?</string>
+    <string name="text_start_default">Время вставать с правой ногой</string>
+    <string name="text_end_01">Вы потребляли</string>
+    <string name="text_end_02">, Войдите, чтобы увидеть больше деталей</string>
+    <string name="text_end_03">Вы взяли</string>
+    <string name="text_end_04">воды в этот день</string>
+    <string name="text_end_default">Хотите знать, в какие часы вы сегодня пили воду? Введите и просмотрите ваше резюме</string>
+    <string name="text_drink_time_01">Час H2O прибыл</string>
+    <string name="text_drink_time_02">Эй, ты уже хочешь пить?</string>
+    <string name="text_drink_time_03">Прикоснитесь к гидрату</string>
+    <string name="text_drink_time_default">Пейте воду только когда хотите пить</string>
+    <string name="big_text_start_01">Это рано, пей воду спокойно. Избегайте проблем с глотанием, ваше тело только начинается</string>
+    <string name="big_text_start_02">Мы напоминаем вам пить воду, когда вы хотите пить, вы можете немного подождать, если вы все еще не хотите вставать с постели</string>
+    <string name="big_text_start_03">Я надеюсь, что вы хорошо выспались! Уверяю вас, увлажнение сейчас поможет вам набраться сил, чтобы начать день</string>
+    <string name="big_text_start_04">Возможно, вам удобно в постели ... или, может быть, вы идете на работу ... пейте воду, когда можете, вы можете пропустить свой первый стакан, если вы еще не готовы</string>
+    <string name="big_text_start_05">Питье 1 или 2 стакана воды натощак идеально подходит для выведения токсинов и всех веществ, которые не нужны нашему организму.</string>
+    <string name="big_text_start_06">Стакан воды или больше поста помогает минимизировать вредное воздействие таких веществ, как алкоголь, табак, загрязнение, нездоровая пища и другие.</string>
+    <string name="big_text_start_07">Эй, чтобы бороться и предотвратить запор, вы можете начинать с H2O по утрам, так как это стимулирует движение кишечника, но если это первый стакан, делайте это спокойно</string>
+    <string name="big_text_start_default">Ночью организм работает, восстанавливая клетки и выполняя внутреннюю очистку, поэтому выпить стакан воды натощак очень хорошо, так как это даст организму толчок для выброса всех ненужных отходов через моча</string>
+    <string name="big_text_end_01">Вы потребляли</string>
+    <string name="big_text_end_02">Помните, что важно не отставать, не забудьте взглянуть на свою деятельность, нажав на это уведомление</string>
+    <string name="big_text_end_03">молодец! Уведомления больше не будут появляться на вашем телефоне, это будет до следующего запуска времени</string>
+    <string name="big_text_end_04">У нас есть ваше резюме сегодня! Зайдите и проверьте, как это было сегодня</string>
+    <string name="big_text_end_default_01">Часы отдыха начинаются сейчас, и вы приняли</string>
+    <string name="big_text_end_default_02">до этого момента. Введите это уведомление, чтобы увидеть детали</string>
+    <string name="big_text_end_goal_reached_01">ПОЗДРАВЛЯЕМ! \n Вы смогли достичь своей ежедневной цели</string>
+    <string name="big_text_end_goal_reached_02">воды, принятой сегодня</string>
+    <string name="big_text_end_goal_reached_03">ОТЛИЧНО! \n С</string>
+    <string name="big_text_end_goal_reached_04">Вам удалось пройти установленный бренд. Отличный день!</string>
+    <string name="big_text_end_goal_reached_05">Вы достигли цели! \n Вы сделали это, зайдите и посмотрите на свою деятельность сегодня. СЛЕДУЙТЕ АСИ!</string>
+    <string name="big_text_end_goal_reached_default_01">ВЫ ДОСТИГАЕТЕ ЭТО! \n Они</string>
+    <string name="big_text_end_goal_reached_default_02">что ваше тело добавлено для правильной работы \n Много поздравлений! \n \n Введите это уведомление, чтобы увидеть свою деятельность</string>
+    <string name="big_text_drink_time_01">Знаете ли вы, что питьевая вода помогает снять усталость? Вода используется организмом для выведения токсинов и ненужных продуктов. Когда в организме меньше воды, сердце должно работать, чтобы перекачивать насыщенную кислородом кровь во все клетки и другие основные органы, что может вызвать усталость. Пойдем за стаканом воды!</string>
+    <string name="big_text_drink_time_02">Здоровая кожа? Вода способствует пополнению тканей кожи, а также увлажняет и повышает ее эластичность. Когда организм получает достаточно воды, кожа увлажняется. Это также помогает при шрамах, прыщах, морщинах и других признаках старения</string>
+    <string name="big_text_drink_time_03">Некоторые исследования показывают, что потребление воды также снижает риск рака мочевого пузыря и толстой кишки. Вода уничтожает вызывающие рак агенты, снижая риск возникновения различных видов рака.</string>
+    <string name="big_text_drink_time_04">Зловонное дыхание - явный признак того, что организму нужно больше воды. Слюна помогает вашему рту избавиться от бактерий и сохранить язык увлажненным. Из-за этого каждый раз, когда у нас неприятный запах изо рта, первое, что мы должны сделать, это выпить много воды</string>
+    <string name="big_text_drink_time_05">H2O помогает устранить побочные продукты жира. Когда мы пьем, желудок наполняется, и мы теряем аппетит. Вода не содержит калорий, жиров, углеводов или сахара и является отличной заменой высококалорийным напиткам.</string>
+    <string name="big_text_drink_time_06">Употребление воды повышает естественную защиту нашего тела и оказывает смазывающее действие на мышцы и суставы, поскольку защищает их и помогает им функционировать должным образом. Это улучшает прочность наших связок и мышц.</string>
+    <string name="big_text_drink_time_07">Если вы не хотите пить сейчас, я напомню вам через несколько минут ...</string>
+    <string name="big_text_drink_time_default">Зловонное дыхание - явный признак того, что организму нужно больше воды. Слюна помогает вашему рту избавиться от бактерий и сохранить язык увлажненным. Из-за этого каждый раз, когда у нас неприятный запах изо рта, первое, что мы должны сделать, это выпить много воды</string>
+</resources>

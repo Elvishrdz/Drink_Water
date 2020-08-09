@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutNewsItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="7dp"
+    android:layout_marginBottom="7dp">
+
+    <TextView
+        android:id="@+id/textViewNewsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Cargando titulo"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textViewNewsContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewNewsTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Cargando descripcion"
+        tools:ignore="HardcodedText" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewContainer"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@+id/textViewNewsContent"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginBottom="15dp"
+        app:cardCornerRadius="7dp"
+        app:cardElevation="7dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageViewNews"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                app:srcCompat="@color/grey_2" />
+
+            <TextView
+                android:id="@+id/textViewNewsDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="7dp"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textColor="@color/grey"
+                android:textSize="10sp"
+                tools:ignore="SmallSp" />
+
+            <Button
+                android:id="@+id/buttonNewsContent"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom|left"
+                android:layout_margin="7dp"
+                android:alpha=".8"
+                android:background="@drawable/button_background_03_selector"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:text="@string/text_see_content"
+                android:textColor="@android:color/white"
+                android:textSize="11sp"
+                tools:ignore="SmallSp" />
+
+            <Button
+                android:id="@+id/buttonNewsNext"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom|right"
+                android:layout_margin="7dp"
+                android:alpha=".8"
+                android:background="@drawable/button_background_03_selector"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:text="@string/text_next"
+                android:textColor="@android:color/white"
+                android:textSize="11sp"
+                tools:ignore="SmallSp"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

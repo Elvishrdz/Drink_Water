@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="7dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/imageViewPP"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter"
+            app:srcCompat="@mipmap/ic_launcher_round" />
+
+        <TextView
+            android:id="@+id/textViewPPTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewPP"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/privacy_policy_title"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textViewPPInformation"
+            android:layout_below="@+id/textViewPPTitle"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewPPContent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:text="@string/ss_loading_content" />
+            </LinearLayout>
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/textViewPPInformation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/checkBoxPP"
+            android:layout_marginTop="7dp"
+            android:layout_marginBottom="7dp"
+            android:gravity="center_horizontal"
+            android:text="@string/privacy_policy_alert"
+            android:textColor="@color/colorAccent" />
+
+        <CheckBox
+            android:id="@+id/checkBoxPP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/buttonPPContinue"
+            android:layout_marginBottom="20dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/privacy_policy_accept" />
+
+        <Button
+            android:id="@+id/buttonPPContinue"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/button_background_03_selector"
+            android:clipToPadding="false"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/text_continue"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
