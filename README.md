@@ -9,6 +9,7 @@ Project [main package](https://github.com/Elvishrdz/Drink_Water/tree/master/app/
 
 -------
 * This repository is for demostration purposes and omit important and confidential files.
+* Most of the code contains comments in spanish.
 
 ![](drink_water_app.jpg)
 
