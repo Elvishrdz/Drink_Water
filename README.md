@@ -10,6 +10,6 @@ Project [main package](https://github.com/Elvishrdz/Drink_Water/tree/master/app/
 -------------------
 * This repository is for demostration purposes and omit important and confidential files.
 
-![](drink_water_app.png)
+![](drink_water_app.jpg)
 
 
