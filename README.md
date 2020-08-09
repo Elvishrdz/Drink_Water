@@ -7,7 +7,7 @@ This project implement Services, Alarms, Local database with SQLite and Notifica
 
 Project [main package](https://github.com/Elvishrdz/Drink_Water/tree/master/app/src/main)
 
--------------------
+-------
 * This repository is for demostration purposes and omit important and confidential files.
 
 ![](drink_water_app.jpg)
